@@ -62,6 +62,7 @@ The KEGG binary pathway association file. All pathways and protein associations 
 
 ### Supplementary 15
 The KEGG binary file, as found in supplementary 14, containing only those proteins found in the unweighted endosomal network.
+This file has also had an additional 2 rows added, containing the number of endosomal proteins present within a particular pathway, and the percentage involvement of of the endosome in that pathway as compared to the total number of proteins involved.
 
 ### Supplementary 16
 A DAVID over-representation analysis, for all KEGG pathways and the proteins contained within the unweighted endosomal network.
