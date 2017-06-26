@@ -1,0 +1,2712 @@
+EntrezID	Uniprot ID	Gene	hsa04010: MAPK signaling pathway	hsa04066: HIF-1 signaling pathway	hsa05164: Influenza A	hsa04510: Focal adhesion	hsa04310: Wnt signaling pathway	hsa04151: PI3K-Akt signaling pathway	hsa04068: FoxO signaling pathway	hsa04014: Ras signaling pathway	hsa04015: Rap1 signaling pathway
+207	P31749	AKT1	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+208	P31751	AKT2	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+387	P61586	RHOA				Focal adhesion	Wnt signaling			Ras signaling	Rap1 signaling
+2	P01023	A2M									
+10	P11245	NAT2									
+16	P49588	AARS									
+19	O95477	ABCA1									
+22	O75027	ABCB7									
+25	P00519	ABL1								Ras signaling	
+27	P42684	ABL2								Ras signaling	
+31	Q13085	ACACA									
+38	P24752	ACAT1									
+39	Q9BWD1	ACAT2									
+43	P22303	ACHE									
+47	P53396	ACLY									
+48	P21399	ACO1									
+50	Q99798	ACO2									
+51	Q15067	ACOX1									
+52	P24666	ACP1									
+53	P11117	ACP2									
+59	P62736	ACTA2									
+60	P60709	ACTB			Influenza A Signaling	Focal adhesion					Rap1 signaling
+70	P68032	ACTC1									
+71	P63261	ACTG1			Influenza A Signaling	Focal adhesion					Rap1 signaling
+72	P63267	ACTG2									
+81	O43707	ACTN4				Focal adhesion					
+87	P12814	ACTN1				Focal adhesion					
+88	P35609	ACTN2				Focal adhesion					
+89	Q08043	ACTN3				Focal adhesion					
+90	Q04771	ACVR1									
+91	P36896	ACVR1B									
+93	Q13705	ACVR2B									
+95	Q03154	ACY1									
+97	P07311	ACYP1									
+114	P40145	ADCY8									Rap1 signaling
+123	Q99541	PLIN2									
+127	P08319	ADH4									
+128	P11766	ADH5									
+130	P28332	ADH6									
+134	P30542	ADORA1									
+135	P29274	ADORA2A									Rap1 signaling
+136	P29275	ADORA2B									Rap1 signaling
+142	P09874	PARP1									
+147	P35368	ADRA1B									
+150	P08913	ADRA2A									
+153	P08588	ADRB1									
+154	P07550	ADRB2									
+155	P13945	ADRB3									
+156	P25098	GRK2									
+159	P30520	ADSS									
+160	O95782	AP2A1									
+161	O94973	AP2A2									
+162	Q10567	AP1B1									
+163	P63010	AP2B1									
+164	O43747	AP1G1									
+174	P02771	AFP									
+175	P20933	AGA									
+177	Q15109	AGER									
+178	P35573	AGL									
+182	P78504	JAG1									
+185	P30556	AGTR1									
+191	P23526	AHCY									
+203	P00568	AK1									
+205	P27144	AK4									
+211	P13196	ALAS1									
+213	P02768	ALB									
+214	Q13740	ALCAM									
+217	P05091	ALDH2									
+219	P30837	ALDH1B1									
+223	P49189	ALDH9A1									
+224	P51648	ALDH3A2									
+226	P04075	ALDOA		HIF-1 signaling							
+229	P05062	ALDOB									
+231	P15121	AKR1B1									
+238	Q9UM73	ALK									
+240	P09917	ALOX5									
+267	Q9UKV5	AMFR									
+268	P03971	AMH									
+273	P49418	AMPH									
+274	O00499	BIN1									
+288	Q12955	ANK3									
+291	P12235	SLC25A4									
+292	P05141	SLC25A5									
+293	P12236	SLC25A6			Influenza A Signaling						
+322	O00213	APBB1									
+324	P25054	APC					Wnt signaling				
+326	O43918	AIRE									
+328	P27695	APEX1									
+329	Q13490	BIRC2				Focal adhesion					
+330	Q13489	BIRC3				Focal adhesion					
+331	P98170	XIAP				Focal adhesion					
+332	O15392	BIRC5									
+335	P02647	APOA1									
+336	P02652	APOA2									
+337	P06727	APOA4									
+338	P04114	APOB									
+345	P02656	APOC3									
+348	P02649	APOE									
+351	P05067	APP									
+353	P07741	APRT									
+355	P25445	FAS	MAPK signaling		Influenza A Signaling						
+356	P48023	FASLG	MAPK signaling		Influenza A Signaling			PI3K-Akt signaling	FoxO signaling	Ras signaling	
+357	Q13796	SHROOM2									
+360	Q92482	AQP3									
+361	P55087	AQP4									
+367	P10275	AR									
+368	O95255	ABCC6									
+369	P10398	ARAF							FoxO signaling		
+374	P15514	AREG									
+375	P84077	ARF1									
+377	P61204	ARF3									
+381	P84085	ARF5									
+382	P62330	ARF6								Ras signaling	
+383	P05089	ARG1									
+396	P52565	ARHGDIA									
+397	P52566	ARHGDIB									
+405	P27540	ARNT		HIF-1 signaling							
+408	P49407	ARRB1	MAPK signaling								
+409	P32121	ARRB2	MAPK signaling								
+432	P07306	ASGR1									
+440	P08243	ASNS									
+445	P00966	ASS1									
+468	P18848	ATF4	MAPK signaling					PI3K-Akt signaling			
+471	P31939	ATIC									
+472	Q13315	ATM							FoxO signaling		
+476	P05023	ATP1A1									
+480	Q13733	ATP1A4									
+481	P05026	ATP1B1									
+483	P54709	ATP1B3									
+487	O14983	ATP2A1									
+488	P16615	ATP2A2									
+489	Q93084	ATP2A3									
+493	P23634	ATP2B4									
+495	P20648	ATP4A									
+498	P25705	ATP5A1									
+501	P49419	ALDH7A1									
+506	P06576	ATP5B									
+509	P36542	ATP5C1									
+515	P24539	ATP5F1									
+521	P56385	ATP5I									
+523	P38606	ATP6V1A									
+525	P15313	ATP6V1B1									
+527	P27449	ATP6V0C									
+528	P21283	ATP6V1C1									
+529	P36543	ATP6V1E1									
+535	Q93050	ATP6V0A1									
+539	P48047	ATP5O									
+545	Q13535	ATR									
+554	P30518	AVPR2									
+558	P30530	AXL									
+567	P61769	B2M									
+573	Q99933	BAG1									
+575	O14514	ADGRB1									
+578	Q16611	BAK1									
+580	Q99728	BARD1									
+581	Q07812	BAX									
+586	P54687	BCAT1									
+587	O15382	BCAT2									
+595	P24385	CCND1				Focal adhesion	Wnt signaling	PI3K-Akt signaling	FoxO signaling		
+596	P10415	BCL2		HIF-1 signaling		Focal adhesion		PI3K-Akt signaling			
+597	Q16548	BCL2A1									
+604	P41182	BCL6							FoxO signaling		
+610	Q9UL51	HCN2									
+613	P11274	BCR									
+622	Q02338	BDH1									
+627	P23560	BDNF	MAPK signaling								
+637	P55957	BID									
+638	Q13323	BIK									
+644	P53004	BLVRA									
+648	P35226	BMI1									
+655	P18075	BMP7									
+657	P36894	BMPR1A									
+658	O00238	BMPR1B									
+659	Q13873	BMPR2									
+662	Q12981	BNIP1									
+672	P38398	BRCA1						PI3K-Akt signaling			
+673	P15056	BRAF	MAPK signaling			Focal adhesion			FoxO signaling		Rap1 signaling
+683	Q10588	BST1									
+685	P35070	BTC									
+695	Q06187	BTK									
+699	O43683	BUB1									
+701	O60566	BUB1B									
+708	Q07021	C1QBP									
+712	P02745	C1QA									
+714	P02747	C1QC									
+720	P0C0L4	C4A									
+728	P21730	C5AR1									
+760	P00918	CA2									
+765	P23280	CA6									
+768	Q16790	CA9									
+773	O00555	CACNA1A	MAPK signaling								
+782	Q02641	CACNB1	MAPK signaling								
+790	P27708	CAD									
+799	P30988	CALCR									
+800	Q05682	CALD1									
+801	P62158	CALM1								Ras signaling	Rap1 signaling
+805	P62158	CALM2								Ras signaling	Rap1 signaling
+808	P62158	CALM3								Ras signaling	Rap1 signaling
+811	P27797	CALR									
+815	Q9UQM7	CAMK2A		HIF-1 signaling			Wnt signaling				
+816	Q13554	CAMK2B		HIF-1 signaling			Wnt signaling				
+817	Q13557	CAMK2D		HIF-1 signaling			Wnt signaling				
+818	Q13555	CAMK2G		HIF-1 signaling			Wnt signaling				
+821	P27824	CANX									
+823	P07384	CAPN1									
+824	P17655	CAPN2				Focal adhesion					
+829	P52907	CAPZA1									
+830	P47755	CAPZA2									
+832	P47756	CAPZB									
+833	P49589	CARS									
+834	P29466	CASP1			Influenza A Signaling						
+836	P42574	CASP3	MAPK signaling								
+839	P55212	CASP6									
+840	P55210	CASP7									
+841	Q14790	CASP8									
+842	P55211	CASP9			Influenza A Signaling			PI3K-Akt signaling			
+843	Q92851	CASP10									
+847	P04040	CAT							FoxO signaling		
+857	Q03135	CAV1				Focal adhesion					
+858	P51636	CAV2				Focal adhesion					
+859	P56539	CAV3				Focal adhesion					
+867	P22681	CBL									
+868	Q13191	CBLB									
+873	P16152	CBR1									
+875	P35520	CBS									
+883	Q16773	KYAT1									
+889	O00522	KRIT1									Rap1 signaling
+890	P20248	CCNA2									
+896	P30281	CCND3				Focal adhesion	Wnt signaling	PI3K-Akt signaling			
+900	P51959	CCNG1									
+904	O60563	CCNT1									
+914	P06729	CD2									
+915	P04234	CD3D									
+919	P20963	CD247									
+920	P01730	CD4									
+921	P06127	CD5									
+925	P01732	CD8A									
+926	P10966	CD8B									
+930	P15391	CD19						PI3K-Akt signaling			
+933	P20273	CD22									
+940	P10747	CD28									
+942	P42081	CD86									
+945	P20138	CD33									
+948	P16671	CD36									
+949	Q8WTV0	SCARB1									
+950	Q14108	SCARB2									
+952	P28907	CD38									
+954	Q9Y5L3	ENTPD2									
+958	P25942	CD40									
+959	P29965	CD40LG									
+960	P16070	CD44									
+962	P09326	CD48									
+965	P19256	CD58									
+966	P13987	CD59									
+967	P08962	CD63									
+972	P04233	CD74									
+974	P40259	CD79B									
+975	P60033	CD81									
+983	P06493	CDK1									
+988	Q99459	CDC5L									
+991	Q12834	CDC20									
+993	P30304	CDC25A									
+995	P30307	CDC25C									
+997	P49427	CDC34									
+998	P60953	CDC42	MAPK signaling			Focal adhesion				Ras signaling	Rap1 signaling
+999	P12830	CDH1									Rap1 signaling
+1000	P19022	CDH2									
+1003	P33151	CDH5									
+1017	P24941	CDK2						PI3K-Akt signaling	FoxO signaling		
+1019	P11802	CDK4						PI3K-Akt signaling			
+1020	Q00535	CDK5									
+1021	Q00534	CDK6						PI3K-Akt signaling			
+1022	P50613	CDK7									
+1025	P50750	CDK9									
+1026	P38936	CDKN1A		HIF-1 signaling				PI3K-Akt signaling	FoxO signaling		
+1027	P46527	CDKN1B		HIF-1 signaling				PI3K-Akt signaling	FoxO signaling		
+1029	P42771	CDKN2A									
+1030	P42772	CDKN2B							FoxO signaling		
+1032	P55273	CDKN2D							FoxO signaling		
+1051	P17676	CEBPB									
+1072	P23528	CFL1									
+1080	P13569	CFTR									
+1108	Q14839	CHD4									
+1111	O14757	CHEK1									
+1119	P35790	CHKA									
+1128	P11229	CHRM1						PI3K-Akt signaling			
+1129	P08172	CHRM2						PI3K-Akt signaling			
+1131	P20309	CHRM3									
+1132	P08173	CHRM4									
+1133	P08912	CHRM5									
+1139	P36544	CHRNA7									
+1147	O15111	CHUK	MAPK signaling					PI3K-Akt signaling	FoxO signaling	Ras signaling	
+1154	Q9NSE2	CISH									
+1159	P12532	CKMT1B									
+1173	Q96CW1	AP2M1									
+1174	P61966	AP1S1									
+1175	P53680	AP2S1									
+1179	A8K7I4	CLCA1									
+1191	P10909	CLU									
+1195	P49759	CLK1									
+1200	O14773	TPP1									
+1201	Q13286	CLN3									
+1207	P54105	CLNS1A									
+1211	P09496	CLTA									
+1212	P09497	CLTB									
+1213	Q00610	CLTC									
+1234	P51681	CCR5									
+1244	Q92887	ABCC2									
+1261	Q16281	CNGA3									
+1263	Q9H4B4	PLK3							FoxO signaling		
+1270	P26441	CNTF									
+1278	P08123	COL1A2				Focal adhesion		PI3K-Akt signaling			
+1282	P02462	COL4A1				Focal adhesion		PI3K-Akt signaling			
+1284	P08572	COL4A2				Focal adhesion		PI3K-Akt signaling			
+1285	Q01955	COL4A3				Focal adhesion		PI3K-Akt signaling			
+1287	P29400	COL4A5				Focal adhesion		PI3K-Akt signaling			
+1288	Q14031	COL4A6				Focal adhesion		PI3K-Akt signaling			
+1293	P12111	COL6A3				Focal adhesion		PI3K-Akt signaling			
+1299	Q14050	COL9A3				Focal adhesion		PI3K-Akt signaling			
+1303	Q99715	COL12A1									
+1308	Q9UMD9	COL17A1									
+1312	P21964	COMT									
+1326	P41279	MAP3K8	MAPK signaling								
+1327	P13073	COX4I1									
+1339	Q02221	COX6A2									
+1355	Q7KZN9	COX15									
+1356	P00450	CP									
+1357	P15085	CPA1									
+1365	O15551	CLDN3									
+1374	P50416	CPT1A									
+1386	P15336	ATF2	MAPK signaling		Influenza A Signaling			PI3K-Akt signaling			
+1387	Q92793	CREBBP		HIF-1 signaling	Influenza A Signaling		Wnt signaling		FoxO signaling		
+1395	Q13324	CRHR2									
+1398	P46108	CRK	MAPK signaling			Focal adhesion					Rap1 signaling
+1399	P46109	CRKL	MAPK signaling			Focal adhesion					Rap1 signaling
+1410	P02511	CRYAB									
+1431	O75390	CS									
+1432	Q16539	MAPK14	MAPK signaling		Influenza A Signaling				FoxO signaling		Rap1 signaling
+1435	P09603	CSF1						PI3K-Akt signaling		Ras signaling	Rap1 signaling
+1436	P07333	CSF1R						PI3K-Akt signaling		Ras signaling	Rap1 signaling
+1445	P41240	CSK									
+1447	P05814	CSN2									
+1452	P48729	CSNK1A1					Wnt signaling				
+1453	P48730	CSNK1D									
+1454	P49674	CSNK1E					Wnt signaling		FoxO signaling		
+1455	P78368	CSNK1G2									
+1457	P68400	CSNK2A1					Wnt signaling				
+1459	P19784	CSNK2A2					Wnt signaling				
+1460	P67870	CSNK2B					Wnt signaling				
+1468	Q9UBX3	SLC25A10									
+1470	P09228	CST2									
+1478	P33240	CSTF2									
+1488	P56545	CTBP2					Wnt signaling				
+1489	Q16619	CTF1									
+1490	P29279	CTGF									
+1493	P16410	CTLA4									
+1495	P35221	CTNNA1									
+1499	P35222	CTNNB1				Focal adhesion	Wnt signaling				Rap1 signaling
+1500	O60716	CTNND1									Rap1 signaling
+1503	P17812	CTPS1									
+1508	P07858	CTSB									
+1509	P07339	CTSD									
+1511	P08311	CTSG									
+1514	P07711	CTSL									
+1535	P13498	CYBA									
+1536	P04839	CYBB		HIF-1 signaling							
+1537	P08574	CYC1									
+1558	P10632	CYP2C8									
+1562	P33260	CYP2C18									
+1601	P98082	DAB2									
+1603	P61803	DAD1									
+1604	P08174	CD55									
+1605	Q14118	DAG1									
+1606	P23743	DGKA									
+1608	P49619	DGKG									
+1609	P52824	DGKQ									
+1612	P53355	DAPK1									
+1615	P14868	DARS									
+1616	Q9UER7	DAXX	MAPK signaling								
+1621	P09172	DBH									
+1630	P43146	DCC									
+1632	P42126	ECI1									
+1634	P07585	DCN									
+1639	Q14203	DCTN1									
+1647	P24522	GADD45A	MAPK signaling						FoxO signaling		
+1650	P39656	DDOST									
+1654	O00571	DDX3X									
+1655	P17844	DDX5									
+1656	P26196	DDX6									
+1665	O43143	DHX15									
+1674	P17661	DES									
+1677	O76075	DFFB									
+1716	Q16854	DGUOK									
+1719	P00374	DHFR									
+1729	O60610	DIAPH1				Focal adhesion					
+1730	O60879	DIAPH2									
+1731	Q8WYJ6	SEPT1									
+1735	P55073	DIO3									
+1736	O60832	DKC1									
+1737	P10515	DLAT									
+1739	Q12959	DLG1									
+1741	Q92796	DLG3									
+1742	P78352	DLG4									
+1755	Q9UGM3	DMBT1									
+1756	P11532	DMD									
+1759	Q05193	DNM1									
+1778	Q14204	DYNC1H1									
+1783	O43237	DYNC1LI2									
+1785	P50570	DNM2									
+1786	P26358	DNMT1									
+1791	P04053	DNTT									
+1793	Q14185	DOCK1				Focal adhesion					
+1796	Q99704	DOK1									
+1803	P27487	DPP4									
+1808	Q16555	DPYSL2									
+1811	P40879	SLC26A3									
+1814	P35462	DRD3									
+1815	P21917	DRD4									
+1827	P53805	RCAN1									
+1829	Q14126	DSG2									
+1832	P15924	DSP									
+1839	Q99075	HBEGF									
+1843	P28562	DUSP1	MAPK signaling								
+1844	Q05923	DUSP2	MAPK signaling								
+1845	P51452	DUSP3	MAPK signaling								
+1846	Q13115	DUSP4	MAPK signaling								
+1847	Q16690	DUSP5	MAPK signaling								
+1848	Q16828	DUSP6	MAPK signaling								
+1849	Q16829	DUSP7	MAPK signaling								
+1852	Q99956	DUSP9	MAPK signaling								
+1855	O14640	DVL1					Wnt signaling				
+1856	O14641	DVL2					Wnt signaling				
+1857	Q92997	DVL3					Wnt signaling				
+1891	Q13011	ECH1									
+1892	P30084	ECHS1									
+1896	Q92838	EDA									
+1901	P21453	S1PR1							FoxO signaling		
+1909	P25101	EDNRA									
+1910	P24530	EDNRB									
+1915	P68104	EEF1A1									
+1917	Q05639	EEF1A2									
+1936	P29692	EEF1D									
+1937	P26641	EEF1G									
+1938	P13639	EEF2									
+1946	P52803	EFNA5						PI3K-Akt signaling		Ras signaling	Rap1 signaling
+1947	P98172	EFNB1									
+1948	P52799	EFNB2									
+1950	P01133	EGF	MAPK signaling	HIF-1 signaling		Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+1956	P00533	EGFR	MAPK signaling	HIF-1 signaling		Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+1962	Q08426	EHHADH									
+1964	P47813	EIF1AX									
+1965	P05198	EIF2S1			Influenza A Signaling						
+1967	Q14232	EIF2B1									
+1968	P41091	EIF2S3									
+1969	P29317	EPHA2						PI3K-Akt signaling		Ras signaling	Rap1 signaling
+1973	P60842	EIF4A1									
+1974	Q14240	EIF4A2									
+1975	P23588	EIF4B						PI3K-Akt signaling			
+1977	P06730	EIF4E		HIF-1 signaling				PI3K-Akt signaling			
+1978	Q13541	EIF4EBP1		HIF-1 signaling				PI3K-Akt signaling			
+1981	Q04637	EIF4G1									
+1982	P78344	EIF4G2									
+1983	P55010	EIF5									
+1991	P08246	ELANE									
+1994	Q15717	ELAVL1									
+2002	P19419	ELK1	MAPK signaling			Focal adhesion				Ras signaling	
+2010	P50402	EMD									
+2017	Q14247	CTTN									
+2023	P06733	ENO1		HIF-1 signaling							
+2027	P13929	ENO3		HIF-1 signaling							
+2033	Q09472	EP300		HIF-1 signaling	Influenza A Signaling		Wnt signaling		FoxO signaling		
+2034	Q99814	EPAS1									
+2035	P11171	EPB41									
+2036	Q9H4G0	EPB41L1									
+2037	O43491	EPB41L2									
+2042	P29320	EPHA3									
+2043	P54764	EPHA4									
+2048	P29323	EPHB2									
+2050	P54760	EPHB4									
+2057	P19235	EPOR						PI3K-Akt signaling			
+2058	P07814	EPRS									
+2060	P42566	EPS15									
+2064	P04626	ERBB2		HIF-1 signaling		Focal adhesion					
+2065	P21860	ERBB3									
+2066	Q15303	ERBB4									
+2069	O14944	EREG									
+2072	Q92889	ERCC4									
+2078	P11308	ERG									
+2091	P22087	FBL									
+2098	P10768	ESD									
+2099	P03372	ESR1									
+2100	Q92731	ESR2									
+2107	P62495	ETF1									
+2113	P14921	ETS1								Ras signaling	
+2114	P15036	ETS2								Ras signaling	
+2118	P43268	ETV4									
+2119	P41161	ETV5									
+2130	Q01844	EWSR1									
+2137	O43909	EXTL3									
+2146	Q15910	EZH2									
+2147	P00734	F2									
+2149	P25116	F2R						PI3K-Akt signaling			Rap1 signaling
+2150	P55085	F2RL1									
+2151	O00254	F2RL2									
+2157	P00451	F8									
+2161	P00748	F12									
+2167	P15090	FABP4									
+2170	P05413	FABP3									
+2175	O15360	FANCA									
+2177	Q9BXW9	FANCD2									
+2181	O95573	ACSL3									
+2182	O60488	ACSL4									
+2184	P16930	FAH									
+2185	Q14289	PTK2B									
+2189	O15287	FANCG									
+2193	Q9Y285	FARSA									
+2194	P49327	FASN									
+2206	Q01362	MS4A2									
+2213	P31994	FCGR2B									
+2214	P08637	FCGR3A									
+2222	P37268	FDFT1									
+2224	P14324	FDPS			Influenza A Signaling						
+2237	P39748	FEN1									
+2241	P16591	FER									
+2242	P07332	FES									
+2243	P02671	FGA									
+2257	P61328	FGF12	MAPK signaling					PI3K-Akt signaling		Ras signaling	Rap1 signaling
+2260	P11362	FGFR1	MAPK signaling					PI3K-Akt signaling		Ras signaling	Rap1 signaling
+2263	P21802	FGFR2	MAPK signaling					PI3K-Akt signaling		Ras signaling	Rap1 signaling
+2268	P09769	FGR									
+2271	P07954	FH									
+2272	P49789	FHIT									
+2273	Q13642	FHL1									
+2274	Q14192	FHL2									
+2288	Q02790	FKBP4									
+2289	Q13451	FKBP5									
+2290	P55316	FOXG1							FoxO signaling		
+2308	Q12778	FOXO1							FoxO signaling		
+2309	O43524	FOXO3						PI3K-Akt signaling	FoxO signaling		
+2316	P21333	FLNA	MAPK signaling			Focal adhesion					
+2317	O75369	FLNB	MAPK signaling			Focal adhesion					
+2318	Q14315	FLNC	MAPK signaling			Focal adhesion					
+2319	Q14254	FLOT2									
+2321	P17948	FLT1		HIF-1 signaling		Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+2335	P02751	FN1				Focal adhesion		PI3K-Akt signaling			
+2339	P49354	FNTA									
+2342	P49356	FNTB									
+2353	P01100	FOS	MAPK signaling								
+2357	P21462	FPR1									Rap1 signaling
+2475	P42345	MTOR		HIF-1 signaling				PI3K-Akt signaling			
+2492	P23945	FSHR									
+2494	O00482	NR5A2									
+2495	P02794	FTH1									
+2512	P02792	FTL									
+2517	P04066	FUCA1									
+2520	P01350	GAST									
+2521	P35637	FUS									
+2533	O15117	FYB									Rap1 signaling
+2534	P06241	FYN				Focal adhesion					
+2538	P35575	G6PC						PI3K-Akt signaling	FoxO signaling		
+2547	P12956	XRCC6									
+2549	Q13480	GAB1								Ras signaling	
+2557	P48169	GABRA4									
+2569	P24046	GABRR1									
+2582	Q14376	GALE									
+2584	P51570	GALK1									
+2597	P04406	GAPDH		HIF-1 signaling							
+2617	P41250	GARS									
+2618	P22102	GART									
+2626	P43694	GATA4									
+2639	Q92947	GCDH									
+2641	P01275	GCG									
+2670	P14136	GFAP									
+2673	Q06210	GFPT1									
+2683	P15291	B4GALT1									
+2686	Q9UJ14	GGT7									
+2690	P10912	GHR						PI3K-Akt signaling			
+2694	P27352	GIF									
+2697	P17302	GJA1									
+2719	P51654	GPC3									
+2730	P48507	GCLM									
+2740	P43220	GLP1R									
+2744	O94925	GLS									
+2752	P15104	GLUL									
+2767	P29992	GNA11									
+2768	Q03113	GNA12	MAPK signaling								
+2769	P30679	GNA15									
+2771	P04899	GNAI2									Rap1 signaling
+2773	P08754	GNAI3									Rap1 signaling
+2775	P09471	GNAO1									Rap1 signaling
+2776	P50148	GNAQ									Rap1 signaling
+2778	Q5JWF2	GNAS									Rap1 signaling
+2779	P11488	GNAT1									
+2780	P19087	GNAT2									
+2781	P19086	GNAZ									
+2782	P62873	GNB1						PI3K-Akt signaling		Ras signaling	
+2783	P62879	GNB2						PI3K-Akt signaling		Ras signaling	
+2797	O43555	GNRH2									
+2799	P15586	GNS									
+2805	P17174	GOT1									
+2806	P00505	GOT2									
+2810	P31947	SFN									
+2817	P35052	GPC1									
+2822	P80108	GPLD1									
+2869	P34947	GRK5									
+2870	P43250	GRK6									
+2872	Q9HBH9	MKNK2	MAPK signaling	HIF-1 signaling							
+2885	P62993	GRB2	MAPK signaling			Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	
+2887	Q13322	GRB10									
+2889	Q13905	RAPGEF1				Focal adhesion					Rap1 signaling
+2890	P42261	GRIA1									
+2891	P42262	GRIA2									
+2900	Q16099	GRIK4									
+2902	Q05586	GRIN1								Ras signaling	Rap1 signaling
+2903	Q12879	GRIN2A								Ras signaling	Rap1 signaling
+2904	Q13224	GRIN2B								Ras signaling	Rap1 signaling
+2906	O15399	GRIN2D									
+2908	P04150	NR3C1									
+2909	Q9NRY4	ARHGAP35				Focal adhesion					
+2923	P30101	PDIA3									
+2932	P49841	GSK3B			Influenza A Signaling	Focal adhesion	Wnt signaling	PI3K-Akt signaling			
+2934	P06396	GSN									
+2935	P15170	GSPT1									
+2936	P00390	GSR									
+2938	P08263	GSTA1									
+2940	Q16772	GSTA3									
+2950	P09211	GSTP1									
+2957	P52655	GTF2A1									
+2960	P29083	GTF2E1									
+2961	P29084	GTF2E2									
+2962	P35269	GTF2F1									
+2963	P13984	GTF2F2									
+2969	P78347	GTF2I									
+2983	Q02153	GUCY1B3									
+2984	P25092	GUCY2C									
+2997	P13807	GYS1						PI3K-Akt signaling			
+3002	P10144	GZMB									
+3012	P04908	HIST1H2AE									
+3013	P20671	HIST1H2AD									
+3014	P16104	H2AFX									
+3015	P0C0S5	H2AFZ									
+3018	P33778	HIST1H2BB									
+3020	P84243	H3F3A									
+3021	P84243	H3F3B									
+3028	Q99714	HSD17B10									
+3029	Q16775	HAGH									
+3030	P40939	HADHA									
+3032	P55084	HADHB									
+3033	Q16836	HADH									
+3035	P12081	HARS									
+3039	P69905	HBA1									
+3040	P69905	HBA2									
+3053	P05546	SERPIND1									
+3054	P51610	HCFC1									
+3055	P08631	HCK									
+3061	O43613	HCRTR1									
+3064	P42858	HTT									
+3065	Q13547	HDAC1									
+3066	Q92769	HDAC2									
+3073	P06865	HEXA									
+3074	P07686	HEXB									
+3075	P08603	CFH									
+3084	Q02297	NRG1									
+3091	Q16665	HIF1A		HIF-1 signaling							
+3092	O00291	HIP1									
+3093	P61086	UBE2K									
+3098	P19367	HK1		HIF-1 signaling							
+3105		HLA-A									
+3106		HLA-B									
+3107		HLA-C									
+3113	P20036	HLA-DPA1			Influenza A Signaling						
+3118	P01906	HLA-DQA2			Influenza A Signaling						
+3119	P01920	HLA-DQB1			Influenza A Signaling						
+3122	P01903	HLA-DRA			Influenza A Signaling						
+3123	P01911	HLA-DRB1			Influenza A Signaling						
+3133	P13747	HLA-E									
+3135	P17693	HLA-G									
+3141	P50747	HLCS									
+3145	P08397	HMBS									
+3146	P09429	HMGB1									
+3158	P54868	HMGCS2									
+3161	O75330	HMMR									
+3163	P30519	HMOX2									
+3164	P22736	NR4A1	MAPK signaling					PI3K-Akt signaling			
+3172	P41235	HNF4A									
+3174	Q14541	HNF4G									
+3178	P09651	HNRNPA1									
+3183	P07910	HNRNPC									
+3190	P61978	HNRNPK									
+3192	Q00839	HNRNPU									
+3248	P15428	HPGD									
+3250	P00739	HPR									
+3251	P00492	HPRT1									
+3265	P01112	HRAS	MAPK signaling			Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+3267	P52594	AGFG1			Influenza A Signaling						
+3276	Q99873	PRMT1							FoxO signaling		
+3295	P51659	HSD17B4									
+3297	Q00613	HSF1									
+3301	P31689	DNAJA1									
+3304	P0DMV9	HSPA1B	MAPK signaling		Influenza A Signaling						
+3305	P34931	HSPA1L	MAPK signaling		Influenza A Signaling						
+3306	P54652	HSPA2	MAPK signaling		Influenza A Signaling						
+3308	P34932	HSPA4									
+3309	P11021	HSPA5									
+3310	P17066	HSPA6	MAPK signaling		Influenza A Signaling						
+3312	P11142	HSPA8	MAPK signaling		Influenza A Signaling						
+3313	P38646	HSPA9									
+3315	P04792	HSPB1	MAPK signaling								
+3316	Q16082	HSPB2									
+3320	P07900	HSP90AA1						PI3K-Akt signaling			
+3326	P08238	HSP90AB1						PI3K-Akt signaling			
+3329	P10809	HSPD1									
+3337	P25685	DNAJB1			Influenza A Signaling						
+3339	P98160	HSPG2									
+3355	P30939	HTR1F									
+3358	P28335	HTR2C									
+3360	Q13639	HTR4									
+3371	P24821	TNC				Focal adhesion		PI3K-Akt signaling			
+3376	P41252	IARS									
+3383	P05362	ICAM1			Influenza A Signaling						
+3384	P13598	ICAM2									
+3385	P32942	ICAM3									
+3397	P41134	ID1									Rap1 signaling
+3398	Q02363	ID2									
+3400	P47928	ID4									
+3416	P14735	IDE									
+3418	P48735	IDH2									
+3419	P50213	IDH3A									
+3420	O43837	IDH3B									
+3421	P51553	IDH3G									
+3442	P01569	IFNA5			Influenza A Signaling			PI3K-Akt signaling			
+3445	P32881	IFNA8			Influenza A Signaling			PI3K-Akt signaling			
+3449	P05015	IFNA16			Influenza A Signaling			PI3K-Akt signaling			
+3454	P17181	IFNAR1			Influenza A Signaling			PI3K-Akt signaling			
+3467	P05000	IFNW1									
+3479	P05019	IGF1		HIF-1 signaling		Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+3480	P08069	IGF1R		HIF-1 signaling		Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+3481	P01344	IGF2									
+3482	P11717	IGF2R									
+3486	P17936	IGFBP3									
+3516	Q06330	RBPJ									
+3551	O14920	IKBKB	MAPK signaling		Influenza A Signaling			PI3K-Akt signaling	FoxO signaling	Ras signaling	
+3553	P01584	IL1B	MAPK signaling		Influenza A Signaling						
+3554	P14778	IL1R1	MAPK signaling								
+3556	Q9NPH3	IL1RAP									
+3559	P01589	IL2RA						PI3K-Akt signaling			
+3560	P14784	IL2RB						PI3K-Akt signaling			
+3566	P24394	IL4R						PI3K-Akt signaling			
+3570	P08887	IL6R		HIF-1 signaling				PI3K-Akt signaling			
+3574	P13232	IL7						PI3K-Akt signaling			
+3575	P16871	IL7R						PI3K-Akt signaling	FoxO signaling		
+3579	P25025	CXCR2									
+3596	P35225	IL13									
+3600	P40933	IL15									
+3611	Q13418	ILK				Focal adhesion					
+3615	P12268	IMPDH2									
+3620	P14902	IDO1									
+3630	P01308	INS		HIF-1 signaling				PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+3633	P32019	INPP5B									
+3635	Q92835	INPP5D									
+3636	O15357	INPPL1									
+3643	P06213	INSR		HIF-1 signaling				PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+3645	P14616	INSRR									
+3646	P60228	EIF3E									
+3654	P51617	IRAK1									
+3655	P23229	ITGA6				Focal adhesion		PI3K-Akt signaling			
+3656	O43187	IRAK2									
+3661	Q14653	IRF3			Influenza A Signaling						
+3665	Q92985	IRF7			Influenza A Signaling						
+3667	P35568	IRS1						PI3K-Akt signaling	FoxO signaling		
+3670	P61371	ISL1									
+3675	P26006	ITGA3				Focal adhesion		PI3K-Akt signaling			
+3676	P13612	ITGA4				Focal adhesion		PI3K-Akt signaling			
+3678	P08648	ITGA5				Focal adhesion		PI3K-Akt signaling			
+3681	Q13349	ITGAD									
+3683	P20701	ITGAL									Rap1 signaling
+3685	P06756	ITGAV				Focal adhesion		PI3K-Akt signaling			
+3688	P05556	ITGB1				Focal adhesion		PI3K-Akt signaling			Rap1 signaling
+3689	P05107	ITGB2									Rap1 signaling
+3690	P05106	ITGB3				Focal adhesion		PI3K-Akt signaling			Rap1 signaling
+3691	P16144	ITGB4				Focal adhesion		PI3K-Akt signaling			
+3692	P56537	EIF6									
+3693	P18084	ITGB5				Focal adhesion		PI3K-Akt signaling			
+3694	P18564	ITGB6				Focal adhesion		PI3K-Akt signaling			
+3695	P26010	ITGB7				Focal adhesion		PI3K-Akt signaling			
+3702	Q08881	ITK									
+3710	Q14573	ITPR3									
+3716	P23458	JAK1			Influenza A Signaling			PI3K-Akt signaling			
+3717	O60674	JAK2			Influenza A Signaling			PI3K-Akt signaling			
+3718	P52333	JAK3						PI3K-Akt signaling			
+3725	P05412	JUN	MAPK signaling		Influenza A Signaling	Focal adhesion	Wnt signaling				
+3727	P17535	JUND	MAPK signaling								
+3728	P14923	JUP									
+3732	P27701	CD82									
+3735	Q15046	KARS									
+3758	P48048	KCNJ1									
+3760	P48549	KCNJ3									
+3762	P48544	KCNJ5									
+3763	P48051	KCNJ6									
+3765	Q92806	KCNJ9									
+3766	P78508	KCNJ10									
+3767	Q14654	KCNJ11									
+3778	Q12791	KCNMA1									
+3782	Q9UGI6	KCNN3									
+3783	O15554	KCNN4									
+3784	P51787	KCNQ1									
+3791	P35968	KDR				Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+3795	P50053	KHK									
+3798	Q12840	KIF5A									
+3799	P33176	KIF5B									
+3800	O60282	KIF5C									
+3802	P43626	KIR2DL1									
+3803	P43627	KIR2DL2									
+3804	P43628	KIR2DL3									
+3805	Q99706	KIR2DL4									
+3806	Q14954	KIR2DS1									
+3809	P43632	KIR2DS4									
+3811	P43629	KIR3DL1									
+3812	P43630	KIR3DL2									
+3815	P10721	KIT						PI3K-Akt signaling		Ras signaling	Rap1 signaling
+3817	P20151	KLK2									
+3821	P26715	KLRC1									
+3822	P26717	KLRC2									
+3824	Q13241	KLRD1									
+3827	P01042	KNG1									
+3831	Q07866	KLC1									
+3836	P52294	KPNA1			Influenza A Signaling						
+3837	Q14974	KPNB1									
+3838	P52292	KPNA2			Influenza A Signaling						
+3845	P01116	KRAS	MAPK signaling					PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+3858	P13645	KRT10									
+3875	P05783	KRT18									
+3897	P32004	L1CAM									
+3912	P07942	LAMB1				Focal adhesion		PI3K-Akt signaling			
+3915	P11047	LAMC1				Focal adhesion		PI3K-Akt signaling			
+3916	P11279	LAMP1									
+3920	P13473	LAMP2									
+3921	P08865	RPSA									
+3925	P16949	STMN1	MAPK signaling								
+3929	P18428	LBP									
+3931	P04180	LCAT									
+3932	P06239	LCK									
+3937	Q13094	LCP2									Rap1 signaling
+3938	P09848	LCT									
+3939	P00338	LDHA		HIF-1 signaling							
+3945	P07195	LDHB									
+3949	P01130	LDLR									
+3953	P48357	LEPR									
+3973	P22888	LHCGR									
+3977	P42702	LIFR									
+3980	P49916	LIG3									
+3981	P49917	LIG4									
+3983	O14639	ABLIM1									
+3984	P53667	LIMK1									
+3990	P11150	LIPC									
+3991	Q05469	LIPE									
+3998	P49257	LMAN1									
+4000	P02545	LMNA									
+4001	P20700	LMNB1									
+4008	Q8WWI1	LMO7									
+4012	Q9UIQ6	LNPEP									
+4023	P06858	LPL									
+4035	Q07954	LRP1									
+4036	P98164	LRP2									
+4040	O75581	LRP6					Wnt signaling				
+4041	O75197	LRP5					Wnt signaling				
+4046	P33241	LSP1									
+4048	P09960	LTA4H									
+4067	P07948	LYN									
+4068	O60880	SH2D1A									
+4074	P20645	M6PR									
+4085	Q13257	MAD2L1									
+4086	Q15797	SMAD1									
+4087	Q15796	SMAD2							FoxO signaling		
+4088	P84022	SMAD3					Wnt signaling		FoxO signaling		
+4089	Q13485	SMAD4					Wnt signaling		FoxO signaling		
+4090	Q99717	SMAD5									
+4093	O15198	SMAD9									
+4099	P20916	MAG									
+4124	Q16706	MAN2A1									
+4137	P10636	MAPT	MAPK signaling								
+4141	P56192	MARS									
+4144	P31153	MAT2A									
+4145	P42679	MATK									
+4157	Q01726	MC1R									
+4158	Q01718	MC2R									
+4160	P32245	MC4R									
+4170	Q07820	MCL1						PI3K-Akt signaling			
+4171	P49736	MCM2									
+4172	P25205	MCM3									
+4173	P33991	MCM4									
+4174	P33992	MCM5									
+4175	Q14566	MCM6									
+4176	P33993	MCM7									
+4179	P15529	CD46									
+4190	P40925	MDH1									
+4191	P40926	MDH2									
+4193	Q00987	MDM2						PI3K-Akt signaling	FoxO signaling		
+4194	O15151	MDM4									
+4199	P48163	ME1									
+4205	Q02078	MEF2A									
+4209	Q14814	MEF2D									
+4214	Q13233	MAP3K1	MAPK signaling								
+4215	Q99759	MAP3K3	MAPK signaling								
+4216	Q9Y6R4	MAP3K4	MAPK signaling								
+4217	Q99683	MAP3K5	MAPK signaling								
+4218	P61006	RAB8A									
+4233	P08581	MET				Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+4261	P33076	CIITA			Influenza A Signaling						
+4267	P14209	CD99									
+4282	P14174	MIF									
+4286	O75030	MITF									
+4287	P54252	ATXN3									
+4292	P40692	MLH1									
+4296	Q16584	MAP3K11	MAPK signaling								
+4300	P42568	MLLT3									
+4301	P55196	AFDN								Ras signaling	Rap1 signaling
+4306	P08235	NR3C2									
+4311	P08473	MME									
+4313	P08253	MMP2									
+4323	P50281	MMP14									
+4350	P29372	MPG									
+4351	P34949	MPI									
+4357	P25325	MPST									
+4358	P39210	MPV17									
+4363	P33527	ABCC1									
+4436	P43246	MSH2									
+4440	O43347	MSI1									
+4478	P26038	MSN									
+4481	P21757	MSR1									
+4489	P04731	MT1A									
+4513	P00403	MT-CO2									
+4515	P56278	MTCP1						PI3K-Akt signaling			
+4522	P11586	MTHFD1									
+4536	P03891	MT-ND2									
+4543	P48039	MTNR1A									
+4544	P49286	MTNR1B									
+4547	P55157	MTTP									
+4550	Q8IVG9	MT-RNR2									
+4589	Q8TAX7	MUC7									
+4599	P20591	MX1			Influenza A Signaling						
+4602	P10242	MYB						PI3K-Akt signaling			
+4609	P01106	MYC	MAPK signaling				Wnt signaling	PI3K-Akt signaling			
+4615	Q99836	MYD88			Influenza A Signaling						
+4619	P12882	MYH1									
+4621	P11055	MYH3									
+4627	P35579	MYH9									
+4628	P35580	MYH10									
+4635	P12829	MYL4									
+4636	Q02045	MYL5				Focal adhesion					
+4637	P60660	MYL6									
+4638	Q15746	MYLK				Focal adhesion					
+4659	O14974	PPP1R12A				Focal adhesion					
+4668	P17050	NAGA									
+4670	P52272	HNRNPM									
+4684	P13591	NCAM1									
+4690	P16333	NCK1									
+4691	P19338	NCL									
+4695	O43678	NDUFA2									
+4697	O00483	NDUFA4									
+4698	Q16718	NDUFA5									
+4701	O95182	NDUFA7									
+4704	Q16795	NDUFA9									
+4707	O75438	NDUFB1									
+4709	O43676	NDUFB3									
+4710	O95168	NDUFB4									
+4712	O95139	NDUFB6									
+4719	P28331	NDUFS1									
+4720	O75306	NDUFS2									
+4722	O75489	NDUFS3									
+4723	P49821	NDUFV1									
+4724	O43181	NDUFS4									
+4726	O75380	NDUFS6									
+4728	O00217	NDUFS8									
+4734	P46934	NEDD4									
+4735	Q15019	SEPT2									
+4736	P62906	RPL10A									
+4741	P07197	NEFM									
+4744	P12036	NEFH									
+4747	P07196	NEFL									
+4763	P21359	NF1	MAPK signaling							Ras signaling	
+4771	P35240	NF2									
+4790	P19838	NFKB1	MAPK signaling	HIF-1 signaling	Influenza A Signaling			PI3K-Akt signaling		Ras signaling	
+4791	Q00653	NFKB2	MAPK signaling								
+4792	P25963	NFKBIA			Influenza A Signaling						
+4793	Q15653	NFKBIB			Influenza A Signaling						
+4800	P23511	NFYA									
+4802	Q13952	NFYC									
+4803	P01138	NGF	MAPK signaling					PI3K-Akt signaling		Ras signaling	Rap1 signaling
+4804	P08138	NGFR						PI3K-Akt signaling		Ras signaling	Rap1 signaling
+4809	P55769	SNU13									
+4831	P22392	NME2									
+4832	Q13232	NME3									
+4837	P40261	NNMT									
+4842	P29475	NOS1									
+4843	P35228	NOS2		HIF-1 signaling							
+4846	P29474	NOS3		HIF-1 signaling				PI3K-Akt signaling			
+4851	P46531	NOTCH1									
+4860	P00491	PNP									
+4864	O15118	NPC1									
+4891	P49281	SLC11A2									
+4899	Q16656	NRF1									
+4905	P46459	NSF									
+4914	P04629	NTRK1	MAPK signaling								
+4915	Q16620	NTRK2	MAPK signaling								
+4916	Q16288	NTRK3									
+4923	P30989	NTSR1									
+4939	P29728	OAS2			Influenza A Signaling						
+4942	P04181	OAT									
+4952	Q01968	OCRL									
+4985	P41143	OPRD1									
+4998	Q13415	ORC1									
+5000	O43929	ORC4									
+5008	P13725	OSM						PI3K-Akt signaling			
+5019	P55809	OXCT1									
+5021	P30559	OXTR									
+5029	P41231	P2RY2									
+5033	P13674	P4HA1									
+5034	P07237	P4HB									
+5042	Q9H361	PABPC3									
+5045	P09958	FURIN			Influenza A Signaling						
+5050	Q15102	PAFAH1B3									
+5052	Q06830	PRDX1									
+5054	P05121	SERPINE1		HIF-1 signaling							
+5055	P05120	SERPINB2									
+5058	Q13153	PAK1	MAPK signaling			Focal adhesion				Ras signaling	
+5062	Q13177	PAK2	MAPK signaling			Focal adhesion				Ras signaling	
+5071	O60260	PARK2									
+5077	P23760	PAX3									
+5081	P23759	PAX7									
+5091	P11498	PC									
+5093	Q15365	PCBP1									
+5105	P35558	PCK1						PI3K-Akt signaling	FoxO signaling		
+5106	Q16822	PCK2						PI3K-Akt signaling	FoxO signaling		
+5111	P12004	PCNA									
+5119	Q9HD42	CHMP1A									
+5136	P54750	PDE1A									
+5142	Q07343	PDE4B									
+5144	Q08499	PDE4D									
+5147	O43924	PDE6D									
+5148	P18545	PDE6G									
+5149	Q13956	PDE6H									
+5154	P04085	PDGFA	MAPK signaling			Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+5156	P16234	PDGFRA	MAPK signaling			Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+5159	P09619	PDGFRB	MAPK signaling			Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+5160	P08559	PDHA1		HIF-1 signaling							
+5162	P11177	PDHB		HIF-1 signaling							
+5163	Q15118	PDK1		HIF-1 signaling							
+5167	P22413	ENPP1									
+5170	O15530	PDPK1				Focal adhesion		PI3K-Akt signaling	FoxO signaling		
+5173	P01213	PDYN									
+5175	P16284	PECAM1									
+5196	P02776	PF4									
+5198	O15067	PFAS									
+5207	P16118	PFKFB1									
+5209	Q16875	PFKFB3		HIF-1 signaling							
+5211	P17858	PFKL		HIF-1 signaling							
+5213	P08237	PFKM									
+5214	Q01813	PFKP									
+5216	P07737	PFN1									Rap1 signaling
+5217	P35080	PFN2									Rap1 signaling
+5223	P18669	PGAM1									
+5226	P52209	PGD									
+5228	P49763	PGF				Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+5236	P36871	PGM1									
+5238	O95394	PGM3									
+5241	P06401	PGR									
+5243	P08183	ABCB1									
+5255	P46020	PHKA1									
+5256	P46019	PHKA2									
+5261	P15735	PHKG2									
+5264	O14832	PHYH									
+5286	O00443	PIK3C2A									
+5287	O00750	PIK3C2B									
+5289	Q8NEB9	PIK3C3									
+5290	P42336	PIK3CA		HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5291	P42338	PIK3CB		HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5292	P11309	PIM1									
+5295	P27986	PIK3R1		HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5296	O00459	PIK3R2		HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5297	P42356	PI4KA									
+5300	Q13526	PIN1									
+5315	P14618	PKM									
+5320	P14555	PLA2G2A								Ras signaling	
+5321	P47712	PLA2G4A	MAPK signaling							Ras signaling	
+5327	P00750	PLAT									
+5328	P00749	PLAU									
+5329	Q03405	PLAUR									
+5331	Q01970	PLCB3					Wnt signaling				Rap1 signaling
+5333	P51178	PLCD1									
+5335	P19174	PLCG1		HIF-1 signaling						Ras signaling	Rap1 signaling
+5336	P16885	PLCG2		HIF-1 signaling						Ras signaling	
+5337	Q13393	PLD1								Ras signaling	
+5338	O14939	PLD2								Ras signaling	
+5340	P00747	PLG			Influenza A Signaling						
+5347	P53350	PLK1							FoxO signaling		
+5352	O00469	PLOD2									
+5356	O43660	PLRG1									
+5360	P55058	PLTP									
+5371	P29590	PML			Influenza A Signaling						
+5372	Q92871	PMM1									
+5413	Q99719	SETP%									
+5424	P28340	POLD1									
+5425	P49005	POLD2									
+5429	Q9Y253	POLH									
+5430	P24928	POLR2A									
+5434	P19388	POLR2E									
+5435	P61218	POLR2F									
+5440	P53803	POLR2K									
+5443	P01189	POMC									
+5444	P27169	PON1									
+5445	Q15165	PON2									
+5464	Q15181	PPA1									
+5465	Q07869	PPARA									
+5467	Q03181	PPARD					Wnt signaling				
+5468	P37231	PPARG									
+5494	P35813	PPM1A	MAPK signaling								
+5495	O75688	PPM1B	MAPK signaling								
+5499	P62136	PPP1CA				Focal adhesion					
+5501	P36873	PPP1CC				Focal adhesion					
+5507	Q9UQK1	PPP1R3C									
+5515	P67775	PPP2CA						PI3K-Akt signaling			
+5516	P62714	PPP2CB						PI3K-Akt signaling			
+5518	P30153	PPP2R1A						PI3K-Akt signaling			
+5519	P30154	PPP2R1B						PI3K-Akt signaling			
+5520	P63151	PPP2R2A						PI3K-Akt signaling			
+5521	Q00005	PPP2R2B						PI3K-Akt signaling			
+5522	Q9Y2T4	PPP2R2C						PI3K-Akt signaling			
+5523	Q06190	PPP2R3A						PI3K-Akt signaling			
+5524	Q15257	PTPA									
+5526	Q15173	PPP2R5B						PI3K-Akt signaling			
+5527	Q13362	PPP2R5C						PI3K-Akt signaling			
+5529	Q16537	PPP2R5E						PI3K-Akt signaling			
+5530	Q08209	PPP3CA	MAPK signaling				Wnt signaling				
+5533	P48454	PPP3CC	MAPK signaling				Wnt signaling				
+5536	P53041	PPP5C	MAPK signaling								
+5546	Q92733	PRCC									
+5550	P48147	PREP									
+5562	Q13131	PRKAA1						PI3K-Akt signaling	FoxO signaling		
+5564	Q9Y478	PRKAB1							FoxO signaling		
+5566	P17612	PRKACA	MAPK signaling				Wnt signaling			Ras signaling	
+5569	P61925	PKIA									
+5573	P10644	PRKAR1A									
+5575	P31321	PRKAR1B									
+5576	P13861	PRKAR2A									
+5578	P17252	PRKCA	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion	Wnt signaling	PI3K-Akt signaling		Ras signaling	Rap1 signaling
+5579	P05771	PRKCB	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion	Wnt signaling			Ras signaling	Rap1 signaling
+5580	Q05655	PRKCD									
+5581	Q02156	PRKCE									
+5582	P05129	PRKCG	MAPK signaling	HIF-1 signaling		Focal adhesion	Wnt signaling			Ras signaling	Rap1 signaling
+5583	P24723	PRKCH									
+5584	P41743	PRKCI									Rap1 signaling
+5587	Q15139	PRKD1									Rap1 signaling
+5590	Q05513	PRKCZ									Rap1 signaling
+5591	P78527	PRKDC									
+5592	Q13976	PRKG1									
+5594	P28482	MAPK1	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5595	P27361	MAPK3	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5598	Q13164	MAPK7	MAPK signaling								
+5599	P45983	MAPK8	MAPK signaling		Influenza A Signaling	Focal adhesion	Wnt signaling		FoxO signaling	Ras signaling	
+5600	Q15759	MAPK11	MAPK signaling		Influenza A Signaling				FoxO signaling		Rap1 signaling
+5601	P45984	MAPK9	MAPK signaling		Influenza A Signaling	Focal adhesion	Wnt signaling		FoxO signaling	Ras signaling	
+5602	P53779	MAPK10	MAPK signaling		Influenza A Signaling	Focal adhesion	Wnt signaling		FoxO signaling	Ras signaling	
+5603	O15264	MAPK13	MAPK signaling		Influenza A Signaling				FoxO signaling		Rap1 signaling
+5604	Q02750	MAP2K1	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5605	P36507	MAP2K2	MAPK signaling	HIF-1 signaling	Influenza A Signaling			PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5606	P46734	MAP2K3	MAPK signaling		Influenza A Signaling						Rap1 signaling
+5609	O14733	MAP2K7	MAPK signaling		Influenza A Signaling						
+5610	P19525	EIF2AK2			Influenza A Signaling						
+5621	P04156	PRNP									
+5630	P41219	PRPH									
+5645	P07478	PRSS2			Influenza A Signaling						
+5646	P35030	PRSS3			Influenza A Signaling						
+5660	P07602	PSAP									
+5662	A5PKW4	PSD									
+5663	P49768	PSEN1					Wnt signaling				
+5664	P49810	PSEN2									
+5682	P25786	PSMA1									
+5684	P25788	PSMA3									
+5686	P28066	PSMA5									
+5687	P60900	PSMA6									
+5688	O14818	PSMA7									
+5689	P20618	PSMB1									
+5690	P49721	PSMB2									
+5691	P49720	PSMB3									
+5692	P28070	PSMB4									
+5694	P28072	PSMB6									
+5696	P28062	PSMB8									
+5698	P28065	PSMB9									
+5700	P62191	PSMC1									
+5701	P35998	PSMC2									
+5702	P17980	PSMC3									
+5704	P43686	PSMC4									
+5706	P62333	PSMC6									
+5707	Q99460	PSMD1									
+5708	Q13200	PSMD2									
+5709	O43242	PSMD3									
+5710	P55036	PSMD4									
+5714	P48556	PSMD8									
+5717	O00231	PSMD11									
+5719	Q9UNM6	PSMD13									
+5720	Q06323	PSME1									
+5721	Q9UL46	PSME2									
+5723	P78330	PSPH									
+5724	P25105	PTAFR									
+5727	Q13635	PTCH1									
+5728	P60484	PTEN				Focal adhesion		PI3K-Akt signaling	FoxO signaling		
+5729	Q13258	PTGDR									
+5730	P41222	PTGDS									
+5731	P34995	PTGER1									
+5732	P43116	PTGER2									
+5734	P35408	PTGER4									
+5739	P43119	PTGIR									
+5740	Q16647	PTGIS									
+5742	P23219	PTGS1									
+5743	P35354	PTGS2									
+5745	Q03431	PTH1R									
+5747	Q05397	PTK2				Focal adhesion		PI3K-Akt signaling			
+5770	P18031	PTPN1									
+5771	P17706	PTPN2									
+5777	P29350	PTPN6									
+5778	P35236	PTPN7	MAPK signaling								
+5781	Q06124	PTPN11								Ras signaling	
+5787	P23467	PTPRB									
+5788	P08575	PTPRC									
+5792	P10586	PTPRF									
+5795	Q12913	PTPRJ									
+5801	Q15256	PTPRR	MAPK signaling								
+5824	P40855	PEX19									
+5825	P28288	ABCD3									
+5828	P28328	PEX2									
+5829	P49023	PXN				Focal adhesion					
+5831	P32322	PYCR1									
+5832	P54886	ALDH18A1									
+5834	P11216	PYGB									
+5836	P06737	PYGL									
+5859	P47897	QARS									
+5860	P09417	QDPR									
+5861	P62820	RAB1A									
+5862	P61019	RAB2A									
+5864	P20336	RAB3A									
+5867	P20338	RAB4A									
+5868	P20339	RAB5A								Ras signaling	
+5869	P61020	RAB5B								Ras signaling	
+5872	P51153	RAB13									
+5874	O00194	RAB27B									
+5878	P51148	RAB5C								Ras signaling	
+5879	P63000	RAC1	MAPK signaling			Focal adhesion	Wnt signaling	PI3K-Akt signaling		Ras signaling	Rap1 signaling
+5880	P15153	RAC2	MAPK signaling			Focal adhesion	Wnt signaling			Ras signaling	Rap1 signaling
+5885	O60216	RAD21									
+5889	O43502	RAD51C									
+5893	P43351	RAD52									
+5894	P04049	RAF1	MAPK signaling		Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+5898	P11233	RALA								Ras signaling	Rap1 signaling
+5900	Q12967	RALGDS								Ras signaling	Rap1 signaling
+5901	P62826	RAN									
+5902	P43487	RANBP1									
+5903	P49792	RANBP2									
+5905	P46060	RANGAP1									
+5906	P62834	RAP1A	MAPK signaling			Focal adhesion				Ras signaling	Rap1 signaling
+5908	P61224	RAP1B	MAPK signaling			Focal adhesion				Ras signaling	Rap1 signaling
+5909	P47736	RAP1GAP									Rap1 signaling
+5914	P10276	RARA									
+5915	P10826	RARB									
+5917	P54136	RARS									
+5921	P20936	RASA1	MAPK signaling							Ras signaling	
+5923	Q13972	RASGRF1	MAPK signaling			Focal adhesion				Ras signaling	
+5925	P06400	RB1									
+5957	P35243	RCVRN									
+5962	P35241	RDX									
+5970	Q04206	RELA	MAPK signaling	HIF-1 signaling	Influenza A Signaling			PI3K-Akt signaling		Ras signaling	
+5972	P00797	REN									
+5976	Q92900	UPF1									
+5979	P07949	RET									
+5985	P40937	RFC5									
+5997	P41220	RGS2									
+5998	P49796	RGS3									
+6009	Q15382	RHEB						PI3K-Akt signaling			
+6011	Q15835	GRK1									
+6048	Q99942	RNF5									
+6093	Q13464	ROCK1				Focal adhesion					
+6095	P35398	RORA									
+6096	Q92753	RORB									
+6100	Q8TA86	RP9									
+6117	P27694	RPA1									
+6118	P15927	RPA2									
+6119	P35244	RPA3									
+6122	P39023	RPL3									
+6123	Q92901	RPL3L									
+6124	P36578	RPL4									
+6125	P46777	RPL5									
+6128	Q02878	RPL6									
+6129	P18124	RPL7									
+6130	P62424	RPL7A									
+6132	P62917	RPL8									
+6133	P32969	RPL9									
+6134	P27635	RPL10									
+6135	P62913	RPL11									
+6136	P30050	RPL12									
+6137	P26373	RPL13									
+6138	P61313	RPL15									
+6139	P18621	RPL17									
+6141	Q07020	RPL18									
+6143	P84098	RPL19									
+6144	P46778	RPL21									
+6146	P35268	RPL22									
+6147	P62750	RPL23A									
+6152	P83731	RPL24									
+6154	P61254	RPL26									
+6156	P62888	RPL30									
+6157	P46776	RPL27A									
+6158	P46779	RPL28									
+6159	P47914	RPL29									
+6160	P62899	RPL31									
+6161	P62910	RPL32									
+6164	P49207	RPL34									
+6165	P18077	RPL35A									
+6167	P61927	RPL37									
+6168	P61513	RPL37A									
+6169	P63173	RPL38									
+6171	P62945	RPL41									
+6175	P05388	RPLP0									
+6176	P05386	RPLP1									
+6181	P05387	RPLP2									
+6182	P52815	MRPL12									
+6184	P04843	RPN1									
+6185	P04844	RPN2									
+6187	P15880	RPS2									
+6188	P23396	RPS3									
+6189	P61247	RPS3A									
+6191	P62701	RPS4X									
+6193	P46782	RPS5									
+6194	P62753	RPS6		HIF-1 signaling				PI3K-Akt signaling			
+6195	Q15418	RPS6KA1	MAPK signaling								
+6196	Q15349	RPS6KA2	MAPK signaling								
+6197	P51812	RPS6KA3	MAPK signaling								
+6198	P23443	RPS6KB1		HIF-1 signaling				PI3K-Akt signaling			
+6199	Q9UBS0	RPS6KB2		HIF-1 signaling				PI3K-Akt signaling			
+6201	P62081	RPS7									
+6202	P62241	RPS8									
+6203	P46781	RPS9									
+6204	P46783	RPS10									
+6205	P62280	RPS11									
+6206	P25398	RPS12									
+6207	P62277	RPS13									
+6208	P62263	RPS14									
+6209	P62841	RPS15									
+6210	P62244	RPS15A									
+6217	P62249	RPS16									
+6218	P08708	RPS17									
+6222	P62269	RPS18									
+6223	P39019	RPS19									
+6224	P60866	RPS20									
+6227	P63220	RPS21									
+6229	P62847	RPS24									
+6230	P62851	RPS25									
+6231	P62854	RPS26									
+6232	P42677	RPS27									
+6233	P62979	RPS27A									
+6234	P62857	RPS28									
+6235	P62273	RPS29									
+6237	P10301	RRAS	MAPK signaling							Ras signaling	Rap1 signaling
+6240	P23921	RRM1									
+6241	P31350	RRM2									
+6256	P19793	RXRA						PI3K-Akt signaling			
+6257	P28702	RXRB									
+6259	P34925	RYK									
+6262	Q92736	RYR2									
+6263	Q15413	RYR3									
+6272	Q99523	SORT1									
+6295	P10523	SAG									
+6300	P53778	MAPK12	MAPK signaling		Influenza A Signaling				FoxO signaling		Rap1 signaling
+6301	P49591	SARS									
+6319	O00767	SCD									
+6337	P37088	SCNN1A									
+6340	P51170	SCNN1G									
+6342	P22307	SCP2									
+6357	Q99616	CCL13									
+6358	Q16627	CCL14									
+6361	Q92583	CCL17									
+6367	O00626	CCL22									
+6382	P18827	SDC1									
+6383	P34741	SDC2									
+6387	P48061	CXCL12									
+6389	P31040	SDHA									
+6396	P55735	SEC13									
+6400	Q9UBV2	SEL1L									
+6402	P14151	SELL									
+6403	P16109	SELP									
+6404	Q14242	SELPLG									
+6405	Q13275	SEMA3F									
+6416	P45985	MAP2K4	MAPK signaling		Influenza A Signaling						
+6426	Q07955	SRSF1									
+6428	P84103	SRSF3									
+6430	Q13243	SRSF5									
+6431	Q13247	SRSF6									
+6445	Q13326	SGCG									
+6446	O00141	SGK1						PI3K-Akt signaling	FoxO signaling		
+6452	P78314	SH3BP2									
+6455	Q99961	SH3GL1									
+6456	Q99962	SH3GL2									
+6457	Q99963	SH3GL3									
+6464	P29353	SHC1				Focal adhesion				Ras signaling	
+6470	P34896	SHMT1									
+6472	P34897	SHMT2									
+6484	Q11206	ST3GAL4									
+6498	P12757	SKIL									
+6505	P43005	SLC1A1									
+6510	Q15758	SLC1A5									
+6513	P11166	SLC2A1		HIF-1 signaling							
+6514	P11168	SLC2A2									
+6517	P14672	SLC2A4							FoxO signaling		
+6520	P08195	SLC3A2									
+6521	P02730	SLC4A1									
+6523	P13866	SLC5A1									
+6541	P30825	SLC7A1									
+6548	P19634	SLC9A1									
+6558	P55011	SLC12A2									
+6591	O43623	SNAI2									
+6606	Q16637	SMN1									
+6607	Q16637	SMN2									
+6608	Q99835	SMO									
+6611	P52788	SMS									
+6612	P55854	SUMO3									
+6613	P61956	SUMO2									
+6616	P60880	SNAP25									
+6622	P37840	SNCA									
+6624	Q16658	FSCN1									
+6625	P08621	SNRNP70									
+6627	P09661	SNRPA1									
+6629	P08579	SNRPB2									
+6632	P62314	SNRPD1									
+6633	P62316	SNRPD2									
+6642	Q13596	SNX1									
+6643	O60749	SNX2									
+6648	P04179	SOD2							FoxO signaling		
+6654	Q07889	SOS1	MAPK signaling			Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	
+6655	Q07890	SOS2	MAPK signaling			Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	
+6657	P48431	SOX2									
+6667	P08047	SP1									
+6693	P16150	SPN									
+6696	P10451	SPP1				Focal adhesion		PI3K-Akt signaling			
+6708	P02549	SPTA1									
+6709	Q13813	SPTAN1									
+6714	P12931	SRC				Focal adhesion					Rap1 signaling
+6720	P36956	SREBF1									
+6722	P11831	SRF	MAPK signaling								
+6723	P19623	SRM									
+6727	P37108	SRP14									
+6728	P09132	SRP19									
+6730	Q9UHB9	SRP68									
+6731	O76094	SRP72									
+6732	Q96SB4	SRPK1									
+6738	P10155	TROVE2									
+6741	P05455	SSB									
+6745	P43307	SSR1									
+6747	Q9UNL2	SSR3									
+6748	P51571	SSR4									
+6752	P30874	SSTR2									
+6768	Q9Y5Y6	ST14									
+6772	P42224	STAT1			Influenza A Signaling						
+6774	P40763	STAT3		HIF-1 signaling					FoxO signaling		
+6776	P42229	STAT5A									
+6777	P51692	STAT5B									
+6778	P42226	STAT6									
+6789	Q13043	STK4	MAPK signaling						FoxO signaling	Ras signaling	
+6790	O14965	AURKA									
+6794	Q15831	STK11						PI3K-Akt signaling	FoxO signaling		
+6804	Q16623	STX1A									
+6809	Q13277	STX3									
+6810	Q12846	STX4									
+6811	Q13190	STX5									
+6812	P61764	STXBP1									
+6817	P50225	SULT1A1									
+6818	P0DMM9	SULT1A3									
+6839	O43463	SUV39H1									
+6844	P63027	VAMP2									
+6845	P51809	VAMP7									
+6850	P43405	SYK						PI3K-Akt signaling			
+6857	P21579	SYT1									
+6865	P21452	TACR2									
+6868	P78536	ADAM17									
+6869	P25103	TACR1									
+6870	P29371	TACR3									
+6872	P21675	TAF1									
+6878	P49848	TAF6									
+6880	Q16594	TAF9									
+6882	Q15544	TAF11									
+6885	O43318	MAP3K7	MAPK signaling				Wnt signaling				
+6888	P37837	TALDO1									
+6890	Q03518	TAP1									
+6891	Q03519	TAP2									
+6892	O15533	TAPBP									
+6897	P26639	TARS									
+6900	Q02246	CNTN2									
+6915	P21731	TBXA2R									
+6921	Q15369	ELOC		HIF-1 signaling							
+6923	Q15370	ELOB		HIF-1 signaling							
+6927	P20823	HNF1A									
+6929	P15923	TCF3									
+6945	Q9UH92	MLX									
+6948	P20062	TCN2									
+6949	Q13428	TCOF1									
+7003	P28347	TEAD1									
+7010	Q02763	TEK		HIF-1 signaling				PI3K-Akt signaling		Ras signaling	Rap1 signaling
+7015	O14746	TERT									
+7018	P02787	TF		HIF-1 signaling							
+7035	P10646	TFPI									
+7037	P02786	TFRC		HIF-1 signaling							
+7039	P01135	TGFA									
+7040	P01137	TGFB1	MAPK signaling						FoxO signaling		
+7042	P61812	TGFB2	MAPK signaling						FoxO signaling		
+7046	P36897	TGFBR1	MAPK signaling						FoxO signaling		
+7048	P37173	TGFBR2	MAPK signaling						FoxO signaling		
+7050	Q15583	TGIF1									
+7052	P21980	TGM2									
+7054	P07101	TH									
+7057	P07996	THBS1				Focal adhesion		PI3K-Akt signaling			Rap1 signaling
+7064	P52888	THOP1									
+7067	P10827	THRA									
+7068	P10828	THRB									
+7074	Q13009	TIAM1								Ras signaling	Rap1 signaling
+7082	Q07157	TJP1									
+7083	P04183	TK1									
+7086	P29401	TKT									
+7094	Q9Y490	TLN1				Focal adhesion					Rap1 signaling
+7096	Q15399	TLR1									
+7097	O60603	TLR2						PI3K-Akt signaling			
+7098	O15455	TLR3			Influenza A Signaling						
+7099	O00206	TLR4		HIF-1 signaling	Influenza A Signaling			PI3K-Akt signaling			
+7124	P01375	TNF	MAPK signaling		Influenza A Signaling						
+7132	P19438	TNFRSF1A	MAPK signaling		Influenza A Signaling						
+7133	P20333	TNFRSF1B									
+7139	P45379	TNNT2									
+7148	P22105	TNXB				Focal adhesion		PI3K-Akt signaling			
+7153	P11388	TOP2A									
+7157	P04637	TP53	MAPK signaling				Wnt signaling	PI3K-Akt signaling			
+7159	Q13625	TP53BP2									
+7166	P17752	TPH1									
+7167	P60174	TPI1									
+7168	P09493	TPM1									
+7169	P07951	TPM2									
+7170	P06753	TPM3									
+7171	P67936	TPM4									
+7172	P51580	TPMT									
+7175	P12270	TPR									
+7184	P14625	HSP90B1						PI3K-Akt signaling			
+7185	Q13077	TRAF1									
+7186	Q12933	TRAF2	MAPK signaling								
+7187	Q13114	TRAF3									
+7189	Q9Y4K3	TRAF6	MAPK signaling								
+7201	P34981	TRHR									
+7205	Q15654	TRIP6									
+7220	P48995	TRPC1									
+7222	Q13507	TRPC3									
+7225	Q9Y210	TRPC6									
+7248	Q92574	TSC1						PI3K-Akt signaling			
+7249	P49815	TSC2						PI3K-Akt signaling			
+7251	Q99816	TSG101									
+7272	P33981	TTK									
+7273	Q8WZ42	TTN									
+7276	P02766	TTR									
+7277	P68366	TUBA4A									
+7278	Q13748	TUBA3C									
+7280	Q13885	TUBB2A									
+7294	P42681	TXK									
+7296	Q16881	TXNRD1									
+7297	P29597	TYK2			Influenza A Signaling						
+7298	P04818	TYMS									
+7306	P17643	TYRP1									
+7307	Q01081	U2AF1									
+7311	P62987	UBA52									
+7314	P0CG47	UBB									
+7316	P0CG48	UBC									
+7317	P22314	UBA1									
+7321	P51668	UBE2D1									
+7322	P62837	UBE2D2									
+7323	P61077	UBE2D3									
+7324	P51965	UBE2E1									
+7325	Q96LR5	UBE2E2									
+7326	P62253	UBE2G1									
+7327	P60604	UBE2G2									
+7328	P62256	UBE2H									
+7329	P63279	UBE2I									
+7334	P61088	UBE2N									
+7337	Q05086	UBE3A									
+7341	P63165	SUMO1									
+7345	P09936	UCHL1									
+7353	Q92890	UFD1L									
+7357	Q16739	UGCG									
+7358	O60701	UGDH									
+7373	Q05707	COL14A1									
+7374	P13051	UNG									
+7376	P55055	NR1H2									
+7385	P22695	UQCRC2									
+7389	P06132	UROD									
+7398	O94782	USP1									
+7407	P26640	VARS									
+7408	P50552	VASP				Focal adhesion					Rap1 signaling
+7409	P15498	VAV1				Focal adhesion					
+7410	P52735	VAV2				Focal adhesion					Rap1 signaling
+7412	P19320	VCAM1									
+7414	P18206	VCL				Focal adhesion					
+7415	P55072	VCP									
+7416	P21796	VDAC1			Influenza A Signaling						
+7417	P45880	VDAC2									
+7419	Q9Y277	VDAC3									
+7421	P11473	VDR									
+7422	P15692	VEGFA		HIF-1 signaling		Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+7423	P49765	VEGFB				Focal adhesion		PI3K-Akt signaling		Ras signaling	Rap1 signaling
+7428	P40337	VHL		HIF-1 signaling							
+7430	P15311	EZR									
+7431	P08670	VIM									
+7433	P32241	VIPR1									
+7434	P41587	VIPR2									
+7442	Q8NER1	TRPV1									
+7448	P04004	VTN				Focal adhesion		PI3K-Akt signaling			
+7450	P04275	VWF				Focal adhesion		PI3K-Akt signaling			
+7453	P23381	WARS									
+7454	P42768	WAS									
+7465	P30291	WEE1									
+7468	O96028	NSD2									
+7474	P41221	WNT5A					Wnt signaling				
+7476	O00755	WNT7A					Wnt signaling				
+7514	O14980	XPO1			Influenza A Signaling						
+7518	Q13426	XRCC4									
+7520	P13010	XRCC5									
+7525	P07947	YES1									
+7529	P31946	YWHAB						PI3K-Akt signaling			
+7531	P62258	YWHAE						PI3K-Akt signaling			
+7532	P61981	YWHAG						PI3K-Akt signaling			
+7533	Q04917	YWHAH						PI3K-Akt signaling			
+7534	P63104	YWHAZ						PI3K-Akt signaling			
+7535	P43403	ZAP70								Ras signaling	
+7538	P26651	ZFP36									
+7786	Q12852	MAP3K12	MAPK signaling								
+7791	Q15942	ZYX				Focal adhesion					
+7799	Q13029	PRDM2									
+7802	O14645	DNALI1									
+7805	Q13571	LAPTM5									
+7841	Q13724	MOGS									
+7846	Q71U36	TUBA1A									
+7852	P61073	CXCR4									
+7855	Q13467	FZD5					Wnt signaling				
+7867	Q16644	MAPKAPK3	MAPK signaling								
+7874	Q93009	USP7							FoxO signaling		
+7879	P51149	RAB7A									
+7919	Q13838	DDX39B			Influenza A Signaling						
+8027	Q92783	STAM									
+8029	O60494	CUBN									
+8036	Q9UQ13	SHOC2								Ras signaling	
+8065	Q93034	CUL5									
+8120	Q13367	AP3B2									
+8175	Q15428	SF3A2									
+8202	Q9Y6Q9	NCOA3									
+8218	P53675	CLTCL1									
+8290	Q16695	HIST3H3									
+8294	P62805	HIST1H4I									
+8312	O15169	AXIN1					Wnt signaling				
+8315	Q7Z569	BRAP								Ras signaling	
+8317	O00311	CDC7									
+8322	Q9ULV1	FZD4					Wnt signaling				
+8329	P0C0S8	HIST1H2AI									
+8330	P0C0S8	HIST1H2AK									
+8332	P0C0S8	HIST1H2AL									
+8335	P04908	HIST1H2AB									
+8336	P0C0S8	HIST1H2AM									
+8337	Q6FI13	HIST2H2AA3									
+8342	Q99879	HIST1H2BM									
+8348	P23527	HIST1H2BO									
+8349	Q16778	HIST2H2BE									
+8350	P68431	HIST1H3A									
+8351	P68431	HIST1H3D									
+8352	P68431	HIST1H3C									
+8353	P68431	HIST1H3E									
+8354	P68431	HIST1H3I									
+8355	P68431	HIST1H3G									
+8356	P68431	HIST1H3J									
+8357	P68431	HIST1H3H									
+8358	P68431	HIST1H3B									
+8359	P62805	HIST1H4A									
+8360	P62805	HIST1H4D									
+8361	P62805	HIST1H4F									
+8362	P62805	HIST1H4K									
+8363	P62805	HIST1H4J									
+8364	P62805	HIST1H4C									
+8365	P62805	HIST1H4H									
+8366	P62805	HIST1H4B									
+8367	P62805	HIST1H4E									
+8368	P62805	HIST1H4L									
+8370	P62805	HIST2H4A									
+8394	Q99755	PIP5K1A									
+8408	O75385	ULK1									
+8411	Q15075	EEA1									
+8417	O15400	STX7									
+8440	O43639	NCK2									
+8449	O60231	DHX16									
+8450	Q13620	CUL4B									
+8451	Q13619	CUL4A									
+8452	Q13618	CUL3									
+8453	Q13617	CUL2		HIF-1 signaling							
+8454	Q13616	CUL1					Wnt signaling				
+8471	O14654	IRS4							FoxO signaling		
+8473	O15294	OGT									
+8503	Q92569	PIK3R3		HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+8506	P78357	CNTNAP1									
+8517	Q9Y6K9	IKBKG	MAPK signaling					PI3K-Akt signaling		Ras signaling	
+8525	Q13574	DGKZ									
+8526	P52429	DGKE									
+8527	Q16760	DGKD									
+8529	P78329	CYP4F2									
+8531	P16989	YBX3									
+8536	Q14012	CAMK1									
+8540	O00116	AGPS									
+8542	O14791	APOL1									
+8546	O00203	AP3B1									
+8550	Q8IW41	MAPKAPK5	MAPK signaling								
+8554	O75925	PIAS1									
+8560	O15121	DEGS1									
+8565	P54577	YARS									
+8569	Q9BUB5	MKNK1	MAPK signaling	HIF-1 signaling							
+8573	O14936	CASK									
+8574	O43488	AKR7A2									
+8600	O14788	TNFSF11									
+8605	Q9UP65	PLA2G4C	MAPK signaling							Ras signaling	
+8607	Q9Y265	RUVBL1					Wnt signaling				
+8613	O14495	PLPP3									
+8631	Q86WV1	SKAP1									Rap1 signaling
+8643	Q9Y6C5	PTCH2									
+8645	O95279	KCNK5									
+8646	Q9H2X0	CHRD									
+8648	Q15788	NCOA1									
+8649	Q9UHA4	LAMTOR3	MAPK signaling								
+8650	P49757	NUMB									
+8651	O15524	SOCS1									
+8655	P63167	DYNLL1									
+8659	P30038	ALDH4A1									
+8660	Q9Y4H2	IRS2							FoxO signaling		
+8661	Q14152	EIF3A									
+8662	P55884	EIF3B									
+8663	Q99613	EIF3C									
+8664	O15371	EIF3D									
+8665	O00303	EIF3F									
+8666	O75821	EIF3G									
+8667	O15372	EIF3H									
+8668	Q13347	EIF3I									
+8672	O43432	EIF4G3									
+8673	Q9BV40	VAMP8									
+8674	O75379	VAMP4									
+8675	O14662	STX16									
+8676	O75558	STX11									
+8677	O60499	STX10									
+8678	Q14457	BECN1									
+8683	Q13242	SRSF9									
+8694	O75907	DGAT1									
+8717	Q15628	TRADD									
+8718	Q93038	TNFRSF25									
+8723	O95219	SNX4									
+8724	O60493	SNX3									
+8729	Q92538	GBF1									
+8737	Q13546	RIPK1									
+8740	O43557	TNFSF14									
+8741	O75888	TNFSF13									
+8760	O95674	CDS2									
+8761	Q13310	PABPC4									
+8764	Q92956	TNFRSF14									
+8766	P62491	RAB11A									
+8767	O43353	RIPK2									
+8772	Q13158	FADD									
+8773	O00161	SNAP23									
+8775	P54920	NAPA									
+8792	Q9Y6Q6	TNFRSF11A									
+8794	O14798	TNFRSF10C			Influenza A Signaling						
+8795	O14763	TNFRSF10B			Influenza A Signaling						
+8797	O00220	TNFRSF10A			Influenza A Signaling						
+8807	O95256	IL18RAP									
+8809	Q13478	IL18R1									
+8813	O60762	DPM1									
+8823	O43320	FGF16	MAPK signaling					PI3K-Akt signaling		Ras signaling	Rap1 signaling
+8826	P46940	IQGAP1									
+8829	O14786	NRP1									
+8833	P49915	GMPS									
+8835	O14508	SOCS2									
+8837	O15519	CFLAR									
+8841	O15379	HDAC3									
+8844	Q8IVT5	KSR1								Ras signaling	
+8850	Q92831	KAT2B									
+8851	Q15078	CDK5R1									
+8853	O43150	ASAP2									
+8867	O43426	SYNJ1									
+8877	Q9NYA1	SPHK1									
+8878	Q13501	SQSTM1									
+8879	O95470	SGPL1									
+8881	Q13042	CDC16									
+8883	Q13564	NAE1									
+8891	Q9NR50	EIF2B3									
+8892	P49770	EIF2B2									
+8893	Q13144	EIF2B5									
+8894	P20042	EIF2S2									
+8896	P41223	BUD31									
+8898	Q13614	MTMR2									
+8900	P78396	CCNA1									
+8905	P56377	AP1S2									
+8906	O75843	AP1G2									
+8907	Q9BXS5	AP1M1									
+8908	O15488	GYG2									
+8943	O14617	AP3D1									
+8945	Q9Y297	BTRC					Wnt signaling				
+8968	P68431	HIST1H3F									
+8969	P0C0S8	HIST1H2AG									
+8970	P06899	HIST1H2BJ									
+8976	O00401	WASL									
+8985	O60568	PLOD3									
+8986	O75676	RPS6KA4	MAPK signaling								
+8994	Q9UGP4	LIMD1									
+9001	P54257	HAP1									
+9002	Q96RI0	F2RL3									Rap1 signaling
+9019	O95297	MPZL1									
+9020	Q99558	MAP3K14	MAPK signaling								
+9021	O14543	SOCS3			Influenza A Signaling						
+9040	P61081	UBE2M									
+9045	P50914	RPL14									
+9047	Q9NP31	SH2D2A									
+9051	O43586	PSTPIP1									
+9060	O95340	PAPSS2									
+9063	O75928	PIAS2									
+9076	O95832	CLDN1									
+9088	Q99640	PKMYT1									
+9091	Q9BRB3	PIGQ									
+9092	O43290	SART1									
+9101	P40818	USP8									
+9103	P31995	FCGR2C									
+9110	Q9NYA4	MTMR4									
+9113	O95835	LATS1									
+9125	Q92600	CNOT9									
+9126	Q9UQE7	SMC3									
+9127	O15547	P2RX6									
+9128	O43172	PRPF4									
+9131	O95831	AIFM1									
+9134	O96020	CCNE2						PI3K-Akt signaling			
+9135	Q15276	RABEP1									
+9138	Q92888	ARHGEF1									
+9140	O94817	ATG12							FoxO signaling		
+9146	O14964	HGS									
+9162	O75912	DGKI									
+9170	Q9HBW0	LPAR2						PI3K-Akt signaling			Rap1 signaling
+9175	O43283	MAP3K13	MAPK signaling								
+9179	O00189	AP4M1									
+9181	Q92974	ARHGEF2									
+9184	O43684	BUB3									
+9218	Q9P0L0	VAPA									
+9223	Q96QZ7	MAGI1									Rap1 signaling
+9229	O14490	DLGAP1									
+9230	Q15907	RAB11B									
+9248	Q13585	GPR50									
+9253	Q9Y6R0	NUMBL									
+9261	P49137	MAPKAPK2	MAPK signaling								
+9266	Q99418	CYTH2									
+9267	Q15438	CYTH1									
+9296	Q16864	ATP6V1F									
+9306	O14544	SOCS6									
+9314	O43474	KLF4									
+9320	Q14669	TRIP12									
+9322	Q15642	TRIP10									
+9337	Q9UFF9	CNOT8									
+9341	Q15836	VAMP3									
+9342	O95721	SNAP29									
+9343	Q15029	EFTUD2									
+9349	P62829	RPL23									
+9351	Q15599	SLC9A3R2									
+9354	Q14139	UBE4A									
+9372	O95405	ZFYVE9									
+9373	Q9Y263	PLAA									
+9402	O75791	GRAP2									
+9410	Q96DI7	SNRNP40									
+9414	Q9UDY2	TJP2									
+9415	O95864	FADS2									
+9446	P78417	GSTO1									
+9454	Q9NSC5	HOMER3							FoxO signaling		
+9455	Q9NSB8	HOMER2							FoxO signaling		
+9459	Q15052	ARHGEF6									
+9468	Q9Y5K3	PCYT1B									
+9470	O60573	EIF4E2		HIF-1 signaling				PI3K-Akt signaling			
+9474	Q9H1Y0	ATG5									
+9475	O75116	ROCK2				Focal adhesion	Wnt signaling				
+9479	Q9UQF2	MAPK8IP1	MAPK signaling								
+9482	Q9UNK0	STX8									
+9491	Q92530	PSMF1									
+9493	Q02241	KIF23									
+9513	P51116	FXR2									
+9514	Q99999	GAL3ST1									
+9516	Q99732	LITAF									
+9519	P62380	TBPL1									
+9524	Q9NZ01	TECR									
+9525	O75351	VPS4B									
+9527	O95249	GOSR1									
+9532	O95816	BAG2									
+9533	O15160	POLR1C									
+9545	O95716	RAB3D									
+9547	O95715	CXCL14									
+9550	O75348	ATP6V1G1									
+9554	O75396	SEC22B									
+9555	O75367	H2AFY									
+9559	O75436	VPS26A									
+9564	P56945	BCAR1				Focal adhesion					Rap1 signaling
+9570	O14653	GOSR2									
+9572	P20393	NR1D1									
+9588	P30041	PRDX6									
+9601	P13667	PDIA4									
+9610	Q13671	RIN1								Ras signaling	
+9612	Q9Y618	NCOR2									
+9615	Q9Y2T3	GDA									
+9623	O95988	TCL1B						PI3K-Akt signaling			
+9630	O95837	GNA14									
+9631	O75694	NUP155									
+9632	P53992	SEC24C									
+9636	P05161	ISG15									
+9641	Q14164	IKBKE			Influenza A Signaling						
+9655	O75159	SOCS5									
+9672	O75056	SDC3									
+9675	O43156	TTI1									
+9677	Q6PFW1	PPIP5K1									
+9688	Q8N1F7	NUP93									
+9690	Q15386	UBE3C									
+9693	Q9Y4G8	RAPGEF2	MAPK signaling								Rap1 signaling
+9709	Q15011	HERPUD1									
+9722	O75052	NOS1AP									
+9727	O75154	RAB11FIP3									
+9732	Q8N1I0	DOCK4									Rap1 signaling
+9741	Q15012	LAPTM4A									
+9744	Q15027	ACAP1									
+9748	Q9H2G2	SLK									
+9757	Q9UMN6	KMT2B									
+9759	P56524	HDAC4									
+9765	Q7Z3T8	ZFYVE16									
+9771	Q92565	RAPGEF5								Ras signaling	Rap1 signaling
+9775	P38919	EIF4A3									
+9776	O75143	ATG13									
+9789	Q15005	SPCS2									
+9798	P53990	IST1									
+9801	P49406	MRPL19									
+9815	Q14161	GIT2									
+9826	O15085	ARHGEF11									
+9829	O75061	DNAJC6									
+9839	O60315	ZEB2									
+9846	Q9UQC2	GAB2								Ras signaling	
+9855	O94887	FARP2									Rap1 signaling
+9861	Q15008	PSMD6									
+9862	O75448	MED24									
+9863	Q86UL8	MAGI2									Rap1 signaling
+9871	O94855	SEC24D									
+9883	Q96HA1	POM121									
+9894	Q9Y4R8	TELO2									
+9897	Q12768	WASHC5									
+9900	Q7L0J3	SV2A									
+9915	Q9HBZ2	ARNT2									
+9922	Q6DN90	IQSEC1									
+9924	Q504Q3	PAN2									
+9926	Q92604	LPGAT1									
+9939	Q9Y5S9	RBM8A									
+9957	O14792	HS3ST1									
+9968	Q93074	MED12									
+9971	Q96RI1	NR1H4									
+9972	P49790	NUP153									
+9978	P62877	RBX1		HIF-1 signaling			Wnt signaling				
+9997	O43819	SCO2									
+10000	Q9Y243	AKT3	MAPK signaling	HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+10007	P46926	GNPDA1									
+10010	Q92844	TANK									
+10013	Q9UBN7	HDAC6									
+10014	Q9UQL6	HDAC5									
+10015	Q8WUM4	PDCD6IP									
+10018	O43521	BCL2L11						PI3K-Akt signaling	FoxO signaling		
+10019	Q9UQQ2	SH2B3									
+10039	Q9Y6F1	PARP3									
+10053	Q9Y6Q5	AP1M2									
+10054	Q9UBT2	UBA2									
+10055	Q9UBE0	SAE1									
+10056	Q9NSD9	FARSB									
+10058	Q9NP58	ABCB6									
+10062	Q13133	NR1H3									
+10084	O60828	PQBP1									
+10092	O15511	ARPC5									
+10094	O15145	ARPC3									
+10095	O15143	ARPC1B									
+10105	P30405	PPIF									
+10109	O15144	ARPC2									
+10110	Q9HBY8	SGK2						PI3K-Akt signaling	FoxO signaling		
+10130	Q15084	PDIA6									
+10134	P51572	BCAP31									
+10140	P50616	TOB1									
+10189	Q86V81	ALYREF									
+10193	Q9H4P4	RNF41									
+10197	P61289	PSME3									
+10201	O75414	NME6									
+10209	P41567	EIF1									
+10211	O75955	FLOT1									
+10228	O43752	STX6									
+10235	Q7LDG7	RASGRP2	MAPK signaling							Ras signaling	Rap1 signaling
+10239	P59780	AP3S2									
+10242	Q9Y691	KCNMB2									
+10248	O75817	POP7									
+10253	O43597	SPRY2									
+10254	O75886	STAM2									
+10257	O15439	ABCC4									
+10269	O75844	ZMPSTE24									
+10273	Q9UNE7	STUB1									
+10277	O95155	UBE4B									
+10282	O15155	BET1									
+10288	Q8N423	LILRB2									
+10291	Q15459	SF3A1									
+10294	O60884	DNAJA2									
+10298	O96013	PAK4				Focal adhesion				Ras signaling	
+10313	O95197	RTN3									
+10319	Q9Y6N6	LAMC3				Focal adhesion		PI3K-Akt signaling			
+10325	Q5VZM2	RRAGB									
+10332	Q9H2X3	CLEC4M									
+10342	Q92734	TFG									
+10344	Q9Y258	CCL26									
+10352	Q9UGM6	WARS2									
+10368	O60359	CACNG3	MAPK signaling								
+10369	Q9Y698	CACNG2	MAPK signaling								
+10376	P68363	TUBA1B									
+10381	Q13509	TUBB3									
+10382	P04350	TUBB4A									
+10383	P68371	TUBB4B									
+10399	P63244	RACK1									
+10402	Q9Y274	ST3GAL6									
+10411	O95398	RAPGEF3									Rap1 signaling
+10413	P46937	YAP1									
+10419	O14744	PRMT5									
+10423	O14735	CDIPT									
+10427	O95487	SEC24B									
+10434	O75608	LYPLA1									
+10436	Q92979	EMG1									
+10438	Q13901	C1D									
+10449	P42765	ACAA2									
+10451	Q9UKW4	VAV3				Focal adhesion					
+10452	O96008	TOMM40									
+10454	Q15750	TAB1	MAPK signaling								
+10455	O75521	ECI2									
+10458	Q9UQB8	BAIAP2									
+10465	O43447	PPIH									
+10476	O75947	ATP5H									
+10479	Q92581	SLC9A6									
+10483	Q15437	SEC23B									
+10484	Q15436	SEC23A									
+10488	O43889	CREB3						PI3K-Akt signaling			
+10490	Q9UEU0	VTI1B									
+10498	Q86X55	CARM1									
+10524	Q92993	KAT5									
+10525	Q9Y4L1	HYOU1									
+10528	O00567	NOP56									
+10533	O95352	ATG7									
+10540	Q13561	DCTN2									
+10542	O43504	LAMTOR5									
+10544	Q9UNN8	PROCR									
+10557	P78345	RPP38									
+10558	O15269	SPTLC1									
+10565	Q9Y6D6	ARFGEF1									
+10573	Q13084	MRPL28									
+10580	Q9BX66	SORBS1									
+10594	Q6P2Q9	PRPF8									
+10603	O14492	SH2B2									
+10606	P22234	PAICS									
+10617	O95630	STAMBP									
+10623	Q9BUI4	POLR3C									
+10625	Q9Y6Y0	IVNS1ABP			Influenza A Signaling						
+10627	P19105	MYL12A				Focal adhesion					
+10632	O75964	ATP5L									
+10636	O43566	RGS14									Rap1 signaling
+10641	Q8WTW4	NPRL2									
+10642	Q9NZI8	IGF2BP1									
+10645	Q96RR4	CAMKK2									
+10652	O15498	YKT6									
+10671	O00399	DCTN6									
+10672	Q14344	GNA13									
+10673	Q9Y275	TNFSF13B									
+10681	O14775	GNB5						PI3K-Akt signaling		Ras signaling	
+10682	Q15125	EBP									
+10686	Q9Y5I7	CLDN16									
+10713	Q53GS9	USP39									
+10714	Q15054	POLD3									
+10728	Q15185	PTGES3									
+10744	Q9NZH5	PTTG2									
+10762	Q9UKX7	NUP50									
+10767	Q9Y450	HBS1L									
+10768	O43865	AHCYL1									
+10769	Q9NYY3	PLK2							FoxO signaling		
+10801	Q9UHD8	SEPT9									
+10802	O95486	SEC24A									
+10808	Q92598	HSPH1									
+10813	Q9BVJ6	UTP14A									
+10814	Q6PUV4	CPLX2									
+10815	O14810	CPLX1									
+10818	Q8WU20	FRS2									
+10825	Q9UQ49	NEU3									
+10842	O96001	PPP1R17									
+10859	Q8NHL6	LILRB1									
+10890	P61026	RAB10									
+10891	Q9UBK2	PPARGC1A									
+10892	Q9UDY8	MALT1									
+10912	O95257	GADD45G	MAPK signaling						FoxO signaling		
+10915	O14776	TCERG1									
+10919	Q96KQ7	EHMT2									
+10921	Q15287	RNPS1									
+10928	Q15311	RALBP1								Ras signaling	
+10929	Q9BRL6	SRSF8									
+10938	Q9H4M9	EHD1									
+10946	Q12874	SF3A3									
+10952	P60468	SEC61B									
+10956	Q13438	OS9									
+10960	Q12907	LMAN2									
+10961	P30040	ERP29									
+10963	P31948	STIP1									
+10970	Q07065	CKAP4									
+10971	P27348	YWHAQ						PI3K-Akt signaling			
+10978	Q92989	CLP1									
+10992	Q13435	SF3B2									
+11021	Q15286	RAB35									
+11031	Q13636	RAB31									
+11035	Q9Y572	RIPK3									
+11051	O43809	NUDT21									
+11052	Q16630	CPSF6									
+11059	Q9H0M0	WWP1									
+11060	O00308	WWP2									
+11069	Q8WZA2	RAPGEF4									Rap1 signaling
+11100	Q9BUJ2	HNRNPUL1			Influenza A Signaling						
+11127	Q9Y496	KIF3A									
+11128	O14802	POLR3A									
+11140	Q16543	CDC37						PI3K-Akt signaling			
+11151	P31146	CORO1A									
+11154	Q9Y587	AP4S1									
+11157	P62312	LSM6									
+11164	Q9UKK9	NUDT5									
+11171	Q9Y3F4	STRAP									
+11184	Q92918	MAP4K1	MAPK signaling								
+11194	Q9NUT2	ABCB8									
+11200	O96017	CHEK2									
+11201	Q9UNA4	POLI									
+11213	Q9Y616	IRAK3									
+11218	Q9UHI6	DDX20									
+11221	Q9Y6W6	DUSP10	MAPK signaling								
+11222	P09001	MRPL3									
+11224	P42766	RPL35									
+11231	Q9UGP8	SEC63									
+11260	O43592	XPOT									
+11267	Q96H20	SNF8									
+11311	Q9NRW7	VPS45									
+11313	O95372	LYPLA2									
+11317	Q9UBG7	RBPJL									
+11325	Q86XP3	DDX42									
+11326	Q9Y279	VSIG4									
+11336	O60645	EXOC3									
+11337	O95166	GABARAP							FoxO signaling		
+11345	P60520	GABARAPL2							FoxO signaling		
+22800	P62070	RRAS2	MAPK signaling							Ras signaling	
+22821	Q14644	RASA3								Ras signaling	
+22824	O95757	HSPA4L									
+22827	Q9UHX1	PUF60									
+22841	Q7L804	RAB11FIP2									
+22861	Q9C000	NLRP1									
+22872	O94979	SEC31A									
+22905	O95208	EPN2									
+22926	P18850	ATF6									
+22938	Q13573	SNW1									
+22941	Q9UPX8	SHANK2									
+22943	O94907	DKK1					Wnt signaling				
+22954	Q13049	TRIM32									
+22985	Q9UKV3	ACIN1									
+23002	Q9Y4D1	DAAM1					Wnt signaling				
+23007	Q4KWH8	PLCH1									
+23016	Q15024	EXOSC7									
+23020	O75643	SNRNP200									
+23035	Q6ZVD8	PHLPP2						PI3K-Akt signaling			
+23057	Q9BZQ4	NMNAT2									
+23062	Q9UJY4	GGA2									
+23085	Q8IUD2	ERC1									
+23111	Q8N0X7	SPG20									
+23118	Q9NYJ8	TAB2	MAPK signaling								
+23136	Q9Y2J2	EPB41L3									
+23157	Q14141	SEPT6									
+23162	Q9UPT6	MAPK8IP3	MAPK signaling								
+23163	Q9NZ52	GGA3									
+23165	Q92621	NUP205									
+23179	Q9NZL6	RGL1								Ras signaling	
+23192	Q9Y4P1	ATG4B									
+23193	Q14697	GANAB									
+23195	Q9NU22	MDN1									
+23198	Q14997	PSME4									
+23205	Q96GR2	ACSBG1									
+23225	Q8TEM1	NUP210									
+23235	Q9H0K1	SIK2									
+23236	Q9NQ66	PLCB1					Wnt signaling				Rap1 signaling
+23239	O60346	PHLPP1						PI3K-Akt signaling			
+23262	O43314	PPIP5K2									
+23265	Q9UPT5	EXOC7									
+23295	O60291	MGRN1									
+23325	Q2M389	WASHC4									
+23327	Q96PU5	NEDD4L									
+23352	Q5T4S7	UBR4									
+23365	Q9NZN5	ARHGEF12									
+23381	Q9UPR3	SMG5									
+23385	Q92542	NCSTN									
+23396	O60331	PIP5K1C				Focal adhesion					
+23410	Q9NTG7	SIRT3									
+23411	Q96EB6	SIRT1							FoxO signaling		
+23433	P17081	RHOQ									
+23450	Q15393	SF3B3									
+23451	O75533	SF3B1									
+23457	Q9NP78	ABCB9									
+23460	Q8N139	ABCA6									
+23471	Q15629	TRAM1									
+23474	O95571	ETHE1									
+23478	P67812	SEC11A									
+23511	Q5SRE5	NUP188									
+23513	Q14160	SCRIB									
+23521	P40429	RPL13A									
+23533	Q8WYR1	PIK3R5		HIF-1 signaling	Influenza A Signaling	Focal adhesion		PI3K-Akt signaling	FoxO signaling	Ras signaling	Rap1 signaling
+23542	Q13387	MAPK8IP2	MAPK signaling								
+23550	Q8NDX1	PSD4									
+23560	Q9BZE4	GTPBP4									
+23566	Q9UBY5	LPAR3						PI3K-Akt signaling			Rap1 signaling
+23583	Q53HV7	SMUG1									
+23586	O95786	DDX58			Influenza A Signaling						
+23594	Q9Y5N6	ORC6									
+23595	Q9UBD5	ORC3									
+23604	Q9UIK4	DAPK2									
+23607	Q9Y5K6	CD2AP									
+23621	P56817	BACE1									
+23624	Q9ULV8	CBLC									
+23640	Q9NZL4	HSPBP1									
+23646	Q8IV08	PLD3									
+23649	Q14181	POLA2									
+23673	Q86Y82	STX12									
+23678	Q96BR1	SGK3						PI3K-Akt signaling	FoxO signaling		
+23708	Q8IYD1	GSPT2									
+23710	Q9H0R8	GABARAPL1							FoxO signaling		
+23743	Q9H2M3	BHMT2									
+23759	Q13356	PPIL2									
+23786	Q9BXK5	BCL2L13									
+25759	P98077	SHC2				Focal adhesion				Ras signaling	
+25780	Q8IV61	RASGRP3	MAPK signaling							Ras signaling	Rap1 signaling
+25804	Q9Y4Z0	LSM4									
+25805	Q13145	BAMBI					Wnt signaling				
+25824	P30044	PRDX5									
+25825	Q9Y5Z0	BACE2									
+25865	Q9BZL6	PRKD2									Rap1 signaling
+25873	Q9Y3U8	RPL36									
+25885	O95602	POLR1A									
+25898	Q96PM5	RCHY1									
+25902	Q6UB35	MTHFD1L									
+25949	O95926	SYF2									
+25970	Q9NRF2	SH2B1									
+25978	Q9UQN3	CHMP2B									
+25981	Q9P2D7	DNAH1									
+26047	Q9UHC6	CNTNAP2									
+26056	Q9BXF6	RAB11FIP5									
+26060	Q9UKG1	APPL1									
+26063	Q9NUI1	DECR2									
+26088	Q9UJY5	GGA1									
+26119	Q5SW96	LDLRAP1									
+26227	O43175	PHGDH									
+26232	Q9UK22	FBXO2									
+26260	Q8TCJ0	FBXO25							FoxO signaling		
+26270	Q9NRD1	FBXO6									
+26286	Q9NP61	ARFGAP3									
+26330	O14556	GAPDHS									
+26354	Q9BVP2	GNL3									
+26503	Q9NRA2	SLC17A5									
+26508	Q9NQ87	HEYL									
+26524	Q9NRM7	LATS2									
+26528	Q96EP5	DAZAP1									
+26659	Q15622	OR7A5									
+26692	Q9Y3N9	OR2W1									
+26985	Q9Y2T2	AP3M1									
+26986	P11940	PABPC1									
+27034	Q9UKU7	ACAD8									
+27035	Q9Y5S8	NOX1		HIF-1 signaling							
+27040	O43561	LAT								Ras signaling	Rap1 signaling
+27044	Q7KZF4	SND1									
+27071	Q9UN19	DAPP1									
+27101	Q9HB71	CACYBP					Wnt signaling				
+27131	Q9Y5X3	SNX5									
+27134	O95049	TJP3									
+27183	Q9UN37	VPS4A									
+27231	Q9NPI5	NMRK2									
+27232	Q14749	GNMT									
+27242	O75509	TNFRSF21									
+27243	O43633	CHMP2A									
+27250	Q53EL6	PDCD4									
+27257	O15116	LSM1									
+27301	Q9UBZ4	APEX2									
+27316	P38159	RBMX									
+27330	Q9UK32	RPS6KA6	MAPK signaling								
+27338	Q16763	UBE2S									
+27343	Q9UGP5	POLL									
+27349	Q8IVS2	MCAT									
+27429	O43464	HTRA2									
+27430	Q9NZL9	MAT2B									
+28956	Q9Y2Q5	LAMTOR2									
+28964	Q9Y2X7	GIT1									
+28987	Q9ULX3	NOB1									
+29079	Q9NPJ6	MED4									
+29082	Q9BY43	CHMP4A									
+29086	Q9NWV8	BABAM1									
+29089	Q9NPD8	UBE2T									
+29110	Q9UHD2	TBK1			Influenza A Signaling					Ras signaling	
+29883	Q9UIV1	CNOT7									
+29889	Q13823	GNL2									
+29920	Q96C36	PYCR2									
+29924	Q9Y6I3	EPN1									
+29927	P61619	SEC61A1									
+29934	Q9UMY4	SNX12									
+29935	Q13156	RPA4									
+29956	Q96G23	CERS2									
+29968	Q9Y617	PSAT1									
+29978	Q9UHD9	UBQLN2									
+29979	Q9UMX0	UBQLN1									
+29984	O00212	RHOD									
+30011	Q96B97	SH3KBP1									
+30061	Q9NP59	SLC40A1									
+30834	Q9P1U0	ZNRD1									
+30837	O14512	SOCS7									
+30844	Q9H223	EHD4									
+30845	Q9NZN3	EHD3									
+30846	Q9NZN4	EHD2									
+30849	Q99570	PIK3R4									
+49861	P56880	CLDN20									
+50628	P57678	GEMIN4									
+50649	Q9NR80	ARHGEF4									
+50807	Q9ULH1	ASAP1									
+51004	Q9Y2Z9	COQ6									
+51010	Q9NQT5	EXOSC3									
+51013	Q9Y3B2	EXOSC1									
+51019	Q9Y3C0	WASHC3									
+51028	Q86VN1	VPS36									
+51056	P28838	LAP3									
+51079	Q9P0J0	NDUFA13									
+51094	Q96A54	ADIPOR1									
+51095	Q96Q11	TRNT1									
+51100	Q9Y371	SH3GLB1									
+51116	Q9Y399	MRPS2									
+51119	Q9Y3A5	SBDS									
+51135	Q9NWZ3	IRAK4			Influenza A Signaling						
+51143	Q9Y6G9	DYNC1LI1									
+51144	Q53GQ0	HSD17B12									
+51160	Q9UK41	VPS28									
+51172	Q9UK23	NAGPA									
+51181	Q7Z4W1	DCXR									
+51196	Q9P212	PLCE1								Ras signaling	Rap1 signaling
+51256	Q9P0N9	TBC1D7									
+51264	Q9P0M9	MRPL27									
+51272	Q9NYM9	BET1L									
+51289	Q9NSD7	RXFP3									
+51295	Q9BQ95	ECSIT	MAPK signaling								
+51318	Q9NZE8	MRPL35									
+51324	Q9NZD8	SPG21									
+51365	Q53H76	PLA1A								Ras signaling	
+51366	O95071	UBR5									
+51380	Q9Y600	CSAD									
+51465	Q9Y385	UBE2J1									
+51495	Q9P035	HACD3									
+51503	Q9P013	CWC15									
+51510	Q9NZZ3	CHMP5									
+51520	Q9P2J5	LARS									
+51534	Q9NP79	VTA1									
+51552	P61106	RAB14									
+51564	Q8WUI4	HDAC7									
+51601	Q9Y234	LIPT1									
+51606	Q9UI12	ATP6V1H									
+51616	Q9HBM6	TAF9B									
+51619	Q9Y2X8	UBE2D4									
+51639	Q9Y3B4	SF3B6									
+51645	Q9Y3C6	PPIL1									
+51652	Q9Y3E7	CHMP3									
+51699	Q9UBQ0	VPS29									
+51719	Q9Y376	CAB39									
+51726	Q9UBS4	DNAJB11									
+51727	P30085	CMPK1									
+51729	Q9Y2W2	WBP11									
+51735	Q8TEU7	RAPGEF6									Rap1 signaling
+51807	Q9NY65	TUBA8									
+53343	Q9BW91	NUDT9									
+53358	Q92529	SHC3				Focal adhesion				Ras signaling	
+53371	Q7Z3B4	NUP54									
+53944	Q9HCP0	CSNK1G1									
+54106	Q9NR96	TLR9									
+54107	Q9NRF9	POLE3									
+54205	P99999	CYCS			Influenza A Signaling						
+54331	P59768	GNG2						PI3K-Akt signaling		Ras signaling	
+54361	P56705	WNT4					Wnt signaling				
+54407	Q96QD8	SLC38A2									
+54433	Q9NY12	GAR1									
+54457	Q5H9L4	TAF7L									
+54464	Q8IZH2	XRN1									
+54472	Q9H0E2	TOLLIP									
+54512	Q9NPD3	EXOSC4									
+54518	Q7Z5R6	APBB1IP									Rap1 signaling
+54575	Q9HAW8	UGT1A10									
+54583	Q9GZT9	EGLN1		HIF-1 signaling							
+54788	Q9NXW2	DNAJB12									
+54822	Q96QT4	TRPM7									
+54872	Q5H8A4	PIGG									
+54884	Q6NUM9	RETSAT									
+54926	Q712K3	UBE2R2									
+54960	Q9NWZ8	GEMIN8									
+54961	Q8TE77	SSH3									
+54981	Q9NWW6	NMRK1									
+54995	Q9NWU1	OXSM									
+55014	P56962	STX17									
+55040	Q9H201	EPN3									
+55048	A5D8V6	VPS37C									
+55052	Q9BYC9	MRPL20									
+55054	Q676U5	ATG16L1									
+55127	Q9H583	HEATR1									
+55163	Q9NVS9	PNPO									
+55168	Q9NVS2	MRPS18A									
+55176	Q9H9S3	SEC61A2									
+55183	Q5UIP0	RIF1									
+55215	Q9NVI1	FANCI									
+55233	Q9H8S9	MOB1A									
+55236	A0AVT1	UBA6									
+55256	Q9BV57	ADI1									
+55284	Q96B02	UBE2W									
+55353	Q86VI4	LAPTM4B									
+55361	Q9BTU6	PI4K2A									
+55503	Q9H1D0	TRPV6									
+55505	Q9NPE3	NOP10									
+55567	Q8TD57	DNAH3									
+55577	Q9UJ70	NAGK									
+55589	Q9NSY1	BMP2K									
+55616	Q8TDY4	ASAP3									
+55666	Q8TAT6	NPLOC4									
+55697	Q08AM6	VAC14									
+55699	Q9NSE4	IARS2									
+55737	Q96QK1	VPS35									
+55738	Q8N6T3	ARFGAP1									
+55740	Q8N8S7	ENAH									
+55742	Q9NVD7	PARVA				Focal adhesion					
+55750	Q53H12	AGK									
+55752	Q9NVA2	SEPT11									
+55757	Q9NYU1	UGGT2									
+55768	Q96IV0	NGLY1									
+55781	Q9BVS4	RIOK2									
+55790	Q8TDX6	CSGALNACT1									
+55801	Q9NPH9	IL26									
+55829	Q9BQE4	SELENOS									
+55850	Q9NZ43	USE1									
+55862	Q9NTX5	ECHDC1									
+55907	Q8NFW8	CMAS									
+55914	Q96RT1	ERBIN									
+55916	Q9NPJ8	NXT2			Influenza A Signaling						
+55968	Q9UNZ2	NSFL1C									
+55970	Q9UBI6	GNG12	MAPK signaling					PI3K-Akt signaling		Ras signaling	
+56001	Q9GZY0	NXF2			Influenza A Signaling						
+56288	Q8TEW0	PARD3									Rap1 signaling
+56474	Q9NRF8	CTPS2									
+56479	Q9NR82	KCNQ5									
+56616	Q9NR28	DIABLO									
+56681	Q9NR31	SAR1A									
+56886	Q9NYU2	UGGT1									
+56893	Q9NRR5	UBQLN4									
+56894	Q9NRZ7	AGPAT3									
+56896	Q9BPU6	DPYSL5									
+56924	Q9NQU5	PAK6				Focal adhesion				Ras signaling	
+57026	Q96GD0	PDXP									
+57103	Q9NQ88	TIGAR									
+57104	Q96AD5	PNPLA2									
+57118	Q8IU85	CAMK1D									
+57132	Q7LBR1	CHMP1B									
+57142	Q9NQC3	RTN4									
+57144	Q9P286	PAK5				Focal adhesion				Ras signaling	
+57154	Q9HCE7	SMURF1									
+57172	Q96NX5	CAMK1G									
+57187	Q8NI27	THOC2									
+57379	Q9GZX7	AICDA									
+57403	Q9UL26	RAB22A									
+57448	Q9NR09	BIRC6									
+57486	Q9BYT8	NLN									
+57506	Q7Z434	MAVS			Influenza A Signaling						
+57510	Q9HAV4	XPO5									
+57521	Q8N122	RPTOR						PI3K-Akt signaling			
+57599	Q8TAF3	WDR48									
+57678	Q9HCL2	GPAM									
+57679	Q96Q42	ALS2									
+57697	Q8IYD8	FANCM									
+57704	Q9HCG7	GBA2									
+57761	Q96RU7	TRIB3									
+58472	Q9Y6N5	SQRDL									
+58477	Q9Y5M8	SRPRB									
+58533	Q9UNH7	SNX6									
+59341	Q9HBA0	TRPV4									
+59343	Q9HC62	SENP2					Wnt signaling				
+59345	Q9HAV0	GNB4						PI3K-Akt signaling		Ras signaling	
+60412	Q96A65	EXOC4									
+60496	Q9NRN7	AASDHPPT									
+60528	Q9BQ52	ELAC2									
+60673	Q9BSB4	ATG101									
+60682	Q8IYB5	SMAP1									
+63826	Q9GZT4	SRR									
+64087	Q9HCC0	MCCC2									
+64098	Q9HBI0	PARVG				Focal adhesion					
+64135	Q9BYX4	IFIH1			Influenza A Signaling						
+64145	Q9H1K0	RBSN									
+64170	Q9H257	CARD9									
+64221	Q96MS0	ROBO3									
+64393	Q9HA38	ZMAT3									
+64398	Q8N3R9	MPP5									
+64419	Q8NCE2	MTMR14									
+64425	Q9GZS1	POLR1E									
+64506	Q9BZB8	CPEB1									
+64581	Q9BXN2	CLEC7A									
+64744	Q8WU79	SMAP2									
+64750	Q9HAU4	SMURF2									
+64781	Q8TCT0	CERK									
+64798	Q8TB45	DEPTOR									
+64802	Q9HAN9	NMNAT1									
+64837	Q9H0B6	KLC2									
+64850	Q8TBG4	ETNPPL									
+64968	P82932	MRPS6									
+64969	P82675	MRPS5									
+64981	Q9BQ48	MRPL34									
+65003	Q9Y3B7	MRPL11									
+65008	Q9BYD6	MRPL1									
+65108	P49006	MARCKSL1									
+65110	Q9H1J1	UPF3A									
+66008	O60296	TRAK2									
+79001	Q9BQB6	VKORC1									
+79008	Q9BQ83	SLX1B									
+79017	O75223	GGCT									
+79054	Q7Z2W7	TRPM8									
+79058	Q9BZE9	ASPSCR1									
+79077	Q9H773	DCTPP1									
+79132	Q96C10	DHX58									
+79139	Q9BUN8	DERL1									
+79158	Q3T906	GNPTAB									
+79590	Q96A35	MRPL24									
+79602	Q86V24	ADIPOR2									
+79621	Q5TBB1	RNASEH2B									
+79643	Q96FZ7	CHMP6									
+79661	Q96FI4	NEIL1									
+79671	Q86UT6	NLRX1			Influenza A Signaling						
+79695	Q8IXK2	GALNT12									
+79709	Q8NBJ5	COLGALT1									
+79720	Q9H9H4	VPS37B									
+79723	Q9H5I1	SUV39H2									
+79833	Q8WXD5	GEMIN6									
+79837	Q8TBX8	PIP4K2C									
+79869	Q8N684	CPSF7									
+79888	Q8NF37	LPCAT1									
+79902	Q9BW27	NUP85									
+80145	Q6I9Y2	THOC7									
+80223	Q6WKZ4	RAB11FIP1									
+80230	Q96T51	RUFY1									
+80233	Q0VG06	FAAP100									
+80301	Q8TD55	PLEKHO2									
+80319	Q9H2H0	CXXC4					Wnt signaling				
+80331	Q9H3Z4	DNAJC5									
+80339	Q9NST1	PNPLA3									
+80347	Q13057	COASY									
+80700	Q9BZV1	UBXN6									
+80824	Q9BY84	DUSP16	MAPK signaling								
+80896	Q9BXD5	NPL									
+81030	Q9H171	ZBP1									
+81035	Q5KU26	COLEC12									
+81567	Q8NBS9	TXNDC5									
+81608	Q6UN15	FIP1L1									
+81873	Q9BPX5	ARPC5L									
+81876	Q9H0U4	RAB1B									
+83547	Q96NA2	RILP									
+83593	Q8WWW0	RASSF5								Ras signaling	Rap1 signaling
+83706	Q86UX7	FERMT3									
+83732	Q9BRS2	RIOK1									
+83737	Q96J02	ITCH									
+84172	Q9H9Y6	POLR1B									
+84188	Q8WVX9	FAR1									
+84193	Q86TU7	SETD3									
+84254	Q8N5S9	CAMKK1									
+84284	Q9BSD7	NTPCR									
+84305	Q9BRP8	PYM1									
+84309	Q9BRJ7	NUDT16L1									
+84313	Q9BRG1	VPS25									
+84440	Q86YS3	RAB11FIP4									
+84447	Q86TM6	SYVN1									
+84464	Q8IY92	SLX4									
+84612	Q9BYG5	PARD6B									Rap1 signaling
+84617	Q9BUF5	TUBB6									
+84693	Q96PE7	MCEE									
+84701	Q96KJ9	COX4I2									
+84706	Q8TD30	GPT2									
+84720	Q8TEQ8	PIGO									
+84735	Q96KN2	CNDP1									
+84790	Q9BQE3	TUBA1C									
+84812	Q9BRC7	PLCD4									
+84867	P54829	PTPN5	MAPK signaling								
+84916	Q969X6	UTP4									
+84950	Q8NAV1	PRPF38A									
+85236	O60814	HIST1H2BK									
+85358	Q9BYB0	SHANK3									
+85365	Q9H553	ALG2									
+85366	Q9H1R3	MYLK2				Focal adhesion					
+85409	Q969F2	NKD2					Wnt signaling				
+85417	Q8WWL7	CCNB3							FoxO signaling		
+85480	Q969D9	TSLP									
+89853	Q9H7P6	MVB12B									
+89953	Q9NSK0	KLC4									
+90390	Q96HR3	MED30									
+90427	Q96LC9	BMF									
+91442	Q9BTP7	FAAP24									
+91445	Q96GF1	RNF185									
+91782	Q8WUX9	CHMP7									
+92344	Q5T7V8	GORAB									
+92421	Q96CF2	CHMP4C									
+92597	Q7L9L4	MOB1B									
+92856	Q96G21	IMP4									
+92912	Q8WVN8	UBE2Q2									
+93343	Q96EY5	MVB12A									
+93408	Q9BUA6	MYL10				Focal adhesion					
+94239	Q71UI9	H2AFV									
+94274	Q96A00	PPP1R14A									
+103910	O14950	MYL12B				Focal adhesion					
+112399	Q9H6Z9	EGLN3		HIF-1 signaling							
+112936	Q4G0F5	VPS26B									
+112950	Q96G25	MED8									
+113457	Q13748	TUBA3D									
+114609	P58753	TIRAP									
+115019	Q7LBE3	SLC26A9									
+115727	Q8TDF6	RASGRP4	MAPK signaling							Ras signaling	
+116519	Q6Q788	APOA5									
+116985	Q96P48	ARAP1									
+116986	Q99490	AGAP2							FoxO signaling		
+116987	Q9UPQ3	AGAP1									
+117157	O14796	SH2D1B									
+118424	Q8N2K1	UBE2J2									
+118813	Q5T4F4	ZFYVE27									
+120892	Q5S007	LRRK2									
+121504	P62805	HIST4H4									
+122011	Q8N752	CSNK1A1L					Wnt signaling				
+122809	Q8WXH5	SOCS4									
+124404	Q8IYM1	SEPT12									
+124540	Q96DH6	MSI2									
+124995	Q7Z7H8	MRPL10									
+126961	Q71DI3	HIST2H3C									
+127602	Q0VDD8	DNAH14									
+128239	Q86VI3	IQGAP3									
+128866	Q9H444	CHMP4B									
+129807	Q8WWR8	NEU4									
+133522	Q86YN6	PPARGC1B									
+133686	Q4G0N4	NADK2									
+134147	Q96DG6	CMBL									
+137492	Q8NEZ2	VPS37A									
+138199	Q8N4J0	CARNMT1									
+140735	Q96FJ2	DYNLL2									
+143187	Q96AJ9	VTI1A									
+146956	Q96AY2	EME1									
+148022	Q8IUC6	TICAM1			Influenza A Signaling						
+148581	Q5VVX9	UBE2U									
+153090	Q5VWQ8	DAB2IP									
+154664	Q86UQ4	ABCA13									
+154796	Q4VCS5	AMOT									
+155382	Q86XT2	VPS37D									
+160851	Q86XP1	DGKH									
+166336	Q7Z3G6	PRICKLE2					Wnt signaling				
+200576	Q9Y2I7	PIKFYVE									
+201163	Q8NFG4	FLCN									
+201633	Q495A1	TIGIT									
+203068	P07437	TUBB									
+206358	Q7Z2H8	SLC36A1									
+219983	Q8NGJ1	OR4D6									
+219988	Q86TB9	PATL1									
+220988	P51991	HNRNPA3									
+221830	Q3B726	TWISTNB									
+253725	Q9Y4E1	WASHC2C									
+254122	Q86XE0	SNX32									
+255626	Q96A08	HIST1H2BA									
+258010	Q8NHG7	SVIP									
+260425	Q5TCQ9	MAGI3									Rap1 signaling
+283455	Q6VAB6	KSR2								Ras signaling	
+283748	Q86XP0	PLA2G4D	MAPK signaling							Ras signaling	
+284217	P25391	LAMA1				Focal adhesion		PI3K-Akt signaling			
+285203	Q5NDL2	EOGT									
+317772	Q8IUE6	HIST2H2AB									
+333932	Q71DI3	HIST2H3A									
+338382	Q96AH8	RAB7B									
+346606	Q86VF5	MOGAT3									
+348995	Q8NFH3	NUP43									
+353376	Q86XR7	TICAM2									
+374291	O75251	NDUFS7									
+374659	Q8N4P3	HDDC3									
+375790	O00468	AGRN									
+378708	Q8N2Z9	CENPS									
+387082	Q6EEV6	SUMO4									
+387680	Q641Q2	WASHC2A									
+389692	Q8NHW3	MAFA									
+390271	Q8NGG8	OR8B3									
+440275	Q9P2K8	EIF2AK4			Influenza A Signaling						
+548593	Q9BQ83	SLX1A									
+548596	P12532	CKMT1A									
+554313	P62805	HIST2H4B									
+594855	Q8WVH0	CPLX3									
+653361	P14598	NCF1									
+653604	Q71DI3	HIST2H3D									
+723790	Q6FI13	HIST2H2AA4									
+728343	Q9GZY0	NXF2B			Influenza A Signaling						
+100132285	P43631	KIR2DS2									
+100287171	A8K0Z3	WASHC1									
+100506658	Q16625	OCLN									
+Total Network	-	-	161	79	107	141	64	190	98	133	134
+Total Pathway	-	-	255	103	175	203	143	341	134	229	212
+Percentage	-	-	63.14%	76.70%	61.14%	69.46%	44.76%	55.72%	73.13%	58.08%	63.21%
