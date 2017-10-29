@@ -22,7 +22,8 @@ The 1st order expansion of the endosomal network, as extracted from the combined
 The results of the BiNGO over-representation analysis, as performed on the network of endosomal proteins found to be commonly expressed across all three of the macrophage, epithelial and neuroblastoma cell-line data. This test was performed on the GO biological process annotations found within the network, in comparison to the entire biological process ontology.
 
 ### Supplementary 5
-The 1706 gene product entries (as extracted from GO) annotated with any of the GO cellular compartment annotations found within Supplementary 1
+The 1905 gene product entries (as extracted from GO) annotated with any of the GO cellular compartment annotations found within Supplementary 1  
+  Note: This is a non redundant list that allows you to filter out certain evidence or particular, unwanted annotations. These GO annotations only contain a total of 664 unique gene products.
 
 ### Supplementary 6
 A list of the final, curated early endosome set of gene products. 
