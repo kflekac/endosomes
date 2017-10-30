@@ -23,14 +23,14 @@ The results of the BiNGO over-representation analysis, as performed on the netwo
 
 ### Supplementary 5
 The 1905 gene product entries (as extracted from GO) annotated with any of the GO cellular compartment annotations found within Supplementary 1  
-  Note: This is a non redundant list that allows you to filter out certain evidence or particular, unwanted annotations. These GO annotations only contain a total of 664 unique gene products.
+  Note: This is a redundant list that allows you to filter out certain evidence or unwanted annotations. These GO annotations only contain a total of 664 unique gene products.
 
 ### Supplementary 6
 A list of the final, curated early endosome set of gene products. 
-Contains the Uniprot Accession, Gene Symbol, Gene/Protein Name, and whether these entries were chosen due to manual curation (expert curation by Prof. P. Gleeson) or network curation (as detailed in the report, methods section 2.1.2.1).
+Contains the Uniprot Accession, Gene Symbol, Gene/Protein Name, and whether these entries were chosen due to *Manual* curation (expert curation by Prof. P. Gleeson) or *Network* curation (as detailed in the report, methods section 2.1.2.1).
 
 ### Supplementary 7
-The total protein-protein interaction file, as found in Supplementary 3, after the applciation of a >= 0.5 filter to the *weight* column
+The total protein-protein interaction file, as found in Supplementary 3, after the application of an edge weight >= 0.05 filter
 Contains 5200 entries, between 2090 different interactors.
 
 ### Supplementary 8
@@ -50,13 +50,13 @@ Network image of the 400 genes (and 1000 interactions) lost from the core networ
 
 ### Supplementary 13
 A network representation of the results of the BiNGO analysis explained in supplementary 4. Nodesw are coloured from orange to white according to p-value (0 to 1), and the size is directly correlated to the number of nodes attributed with that annotation. 
-Image contains labelled boxes around sections of the entwork with a high amount of annotations relating to:
-A. T-Cell Regulation
-B. Apoptosis regulation
-C. Cellular defence/immune response
-D. Protein localisation and transport
-E. Regulation of various signalling pathways
-F. Cell adhesion, motility and migration
+Image contains labelled boxes around sections of the entwork with a high amount of annotations relating to:  
+  A. T-Cell Regulation  
+  B. Apoptosis regulation  
+  C. Cellular defence/immune response  
+  D. Protein localisation and transport  
+  E. Regulation of various signalling pathways  
+  F. Cell adhesion, motility and migration  
 
 ### Supplementary 14
 The KEGG binary pathway association file. All pathways and protein associations are current as of January 2017.
